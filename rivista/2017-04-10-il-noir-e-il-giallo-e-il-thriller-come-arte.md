@@ -1,11 +1,8 @@
 ---
 author: Oscar Montani
 comments: false
-date: 2017-04-10 10:00:50+00:00
-image: /images/2017/04/macchinadascrivere.jpg
-
-link: http://redazione.scritture.net/mag/il-noir-e-il-giallo-e-il-thriller-come-arte/
-slug: il-noir-e-il-giallo-e-il-thriller-come-arte
+date: 2017-04-10 
+image: "/images/2017/04/macchinadascrivere.jpg"
 title: Il noir (e il giallo e il thriller) come arte
 categories:
 - arte
@@ -18,22 +15,17 @@ tags:
 - Oscar Montani
 - Scritture
 ---
+Le narrazioni noir, gialle e affini, conoscono [metropoli e province](../i-colori-del-noir/), eccellenze e mestieranti, hanno [tecniche per risolvere problemi](../indagini-scientifiche-il-giallo-e-la-matematica/) nelle quali le preoccupazioni scientifiche e matematiche sono decisive. [Oscar Montani](http://www.mangialibri.com/interviste/intervista-oscar-montani), autore di romanzi (ultimo libro "La pazienza del gatto", 2016) e direttore editoriale per [**Nerocromo**](https://www.nerocromo.com), ricorda anche che per farne un'arte non basta seguire le regole di genere, ma occorre avere una storia da raccontare.
 
-_Le narrazioni noir, gialle e affini, conoscono __[metropoli e province](http://www.scritture.net/mag/i-colori-del-noir/), eccellenze e mestieranti__, hanno __[tecniche per risolvere problemi](http://www.scritture.net/mag/indagini-scientifiche-il-giallo-e-la-matematica/) nelle quali le preoccupazioni scientifiche e matematiche sono decisive__. _[_Oscar Montani_](http://www.mangialibri.com/interviste/intervista-oscar-montani)_, autore di romanzi (ultimo libro “La pazienza del gatto”, 2016) e direttore editoriale per _[_Nerocromo_](https://www.nerocromo.com)_, ricorda anche che per farne un'arte non basta seguire le regole di genere, ma occorre avere una storia da raccontare._
-
-
-
-**1. Un volto nell’ombra**
+#### 1. Un volto nell'ombra
 
 ![image1](/images/2017/04/image1.jpeg)
 
-È di pochi giorni fa una frase che mi ha un po' agitato (sinonimo gentile per incazzato): «_Sì, ma va bene così, in fondo è solo un giallo!»_. L'ha pronunciata un mio autore in risposta alla mia ipotesi (richiesta non troppo velata) di revisione di un dialogo che poteva meglio caratterizzare un personaggio.
+È di pochi giorni fa una frase che mi ha un po' agitato (sinonimo gentile per incazzato): «*Sì, ma va bene così, in fondo è solo un giallo!*» L'ha pronunciata un mio autore in risposta alla mia ipotesi (richiesta non troppo velata) di revisione di un dialogo che poteva meglio caratterizzare un personaggio.
 
-La mia risposta, pacata: «_C…o! Stai a imbrattare carta e schizzare inchiostro o pensi di far arte? Nel primo caso smetti: va bene così! Nel secondo impegnati e cerca di avere più rispetto per il tuo personaggio: mettilo sotto uno spot impietoso!»_.
+La mia risposta, pacata: «*C...o! Stai a imbrattare carta e schizzare inchiostro o pensi di far arte? Nel primo caso smetti: va bene così! Nel secondo impegnati e cerca di avere più rispetto per il tuo personaggio: mettilo sotto uno spot impietoso!*»
 
-
-
-2. **Genere o arte?**
+#### 2. Genere o arte?
 
 ![image2](/images/2017/04/image2.jpeg)
 
@@ -41,11 +33,9 @@ Ci sono aspiranti autori che, prima di mettersi a scrivere un giallo (o noir), s
 
 L'immagine sopra, se da voi consultata, vi farà capire come i primi delinquenti siano proprio questi principianti! Peggio di loro sono quelli che, alla seconda o terza opera (quanti lettori: complici ignoranti, viscidi condiscendenti o semplicemente parenti?) continuano a seguire pedissequamente le regole!
 
-Io credo che prima di prendere in mano una penna (una tastiera) ci si debba porre un paio di  domande: «_Ho una storia da raccontare? Cosa voglio dire ai miei lettori?»._
+Io credo che prima di prendere in mano una penna (una tastiera) ci si debba porre un paio di  domande: «Ho una storia da raccontare? Cosa voglio dire ai miei lettori?»
 
-
-
-**3. ****Una mente organizzata**
+#### 3. Una mente organizzata
 
 ![image3](/images/2017/04/image3.jpeg)
 
@@ -53,13 +43,11 @@ Se si hanno  le risposte significa che la nostra mente è ben organizzata. Solo
 
 Non vi scandalizzate, se lo fate significa che in altri tempi avreste pensato che i fumetti (ora che si chiamano Graphic Novel non osereste mai!) fossero un perdita di tempo per i vostri figli!
 
-
-
-**4. Perché il noir è arte**
+#### 4. Perché il noir è arte
 
 ![image4](/images/2017/04/image4.jpg)
 
-Cercherò di elencare alcune ragioni a sostegno della mia tesi. Un autore che scrive gialli persegue un obiettivo: _rendere visibile il buio dell’anima_!
+Cercherò di elencare alcune ragioni a sostegno della mia tesi. Un autore che scrive gialli persegue un obiettivo: _rendere visibile il buio dell'anima_!
 
 1. Descrive uno stato dell'anima che tormenta uno o più personaggi. È il primo processo di identificazione che colpisce il lettore.
 

@@ -25,13 +25,13 @@ tags:
 - Scritture
 ---
 
-_Il lavoro di antropologo e filosofo di Marc Augé (Poitiers, 1935), ampio e diversificato, presenta al suo interno una profonda coerenza di pensiero e indagine, ed è proprio l’intreccio tra le diverse tematiche a permettere di esplicare le costanti della sua ricerca. Inizialmente, ha dedicato le sue attenzioni allo studio delle società tribali della Costa D’Avorio e del Togo, cercando di rintracciarne la logica implicita nella loro autorappresentazione (ideo-logic). Successivamente, si è concentrato sull’elaborazione di un’antropologia delle società contemporanee e della “surmodernité”, rispetto alle quali ha elaborato la teoria dei “non-luoghi”, espressione che indica lo spazio tipico delle stazioni ferroviarie, delle stanze d’albergo, dei grandi magazzini. Presentiamo un suo testo sull’egemonia del presente, e a seguire un breve colloquio con l’autore su cinque questioni essenziali: oblio e memoria, universale e individuale, educazione e scommessa, autocolonizzazione e metrò immaginario._
+_Il lavoro di antropologo e filosofo di Marc Augé (Poitiers, 1935), ampio e diversificato, presenta al suo interno una profonda coerenza di pensiero e indagine, ed è proprio l'intreccio tra le diverse tematiche a permettere di esplicare le costanti della sua ricerca. Inizialmente, ha dedicato le sue attenzioni allo studio delle società tribali della Costa D'Avorio e del Togo, cercando di rintracciarne la logica implicita nella loro autorappresentazione (ideo-logic). Successivamente, si è concentrato sull'elaborazione di un'antropologia delle società contemporanee e della “surmodernité”, rispetto alle quali ha elaborato la teoria dei “non-luoghi”, espressione che indica lo spazio tipico delle stazioni ferroviarie, delle stanze d'albergo, dei grandi magazzini. Presentiamo un suo testo sull'egemonia del presente, e a seguire un breve colloquio con l'autore su cinque questioni essenziali: oblio e memoria, universale e individuale, educazione e scommessa, autocolonizzazione e metrò immaginario._
 
 
 
 Il problema è che oggi regna sul pianeta un'ideologia del presente e dell'evidenza che paralizza lo sforzo di pensare il presente come storia, che rende obsoleti tanto le lezioni del passato quanto il desiderio di immaginare l'avvenire. Da uno o due decenni, il presente è divenuto egemonico. Il presente, agli occhi del comune mortale, non è più frutto della lenta maturazione del passato, non lascia più trasparire i lineamenti di possibili futuri, ma si impone come un fatto compiuto, opprimente, il cui sorgere improvviso elude il passato e satura l'immaginazione dell'avvenire.
 
-<!-- more -->Ciò che io chiamo l'ideologia del presente si esprime in diversi modi e noi possiamo individuarne l'esistenza a partire da almeno tre fenomeni contemporanei e concomitanti che costituiscono, a mio avviso, un nuovo campo di investigazione per l'antropologia.
+Ciò che io chiamo l'ideologia del presente si esprime in diversi modi e noi possiamo individuarne l'esistenza a partire da almeno tre fenomeni contemporanei e concomitanti che costituiscono, a mio avviso, un nuovo campo di investigazione per l'antropologia.
 
 Il _primo_ di questi fenomeni rimanda a Lyotard e alla _«fine dei grandi racconti»_, alla perdita delle illusioni che gli uomini hanno nutrito sul progresso dell'umanità, segnatamente del XX° secolo. Il momento postmoderno sarebbe quello in cui i miti moderno, i miti del futuro, i miti universalistici che avevano costituito le cosmogonie particolaristiche, scompaiono a loro volta. Una delle ragioni di questo fallimento, consisterebbe in ciò che Lyotard ha chiamato _différend_, la differenza di percezione tra quelli che inventano teoricamente un'ideologia universalistica liberatrice e quanti ne subiscono storicamente gli effetti. La Rivoluzione francese fu un atto di liberazione universale o semplicemente l'espressione dell'espansionismo francese che doveva trovare il suo vero eroe nella persona di Napoleone? Sicuramente ambedue, ed è da questo punto che iniziano le difficoltà.
 
@@ -63,33 +63,33 @@ Ma la scienza, all'inverso delle cosmologie rassicuranti che postulano una total
 #### Il futuro del presente: Claudio Comandini intervista Marc Augé
 
 
-**1.** Lei denuncia i caratteri di “egemonia” e “oppressione” dell’attuale ideologia del presente: facciamo un passo indietro e due avanti, in modo da comprendere tale problematica nell’articolazione complessiva del suo pensiero. Possiamo ricollegare questa teoria del “non tempo” a quella del “non luogo”, definito come spazio “né identitario, né relazionale, né storico” in _Non-Lieux. Introduction à une anthropologie de la surmodernité (1992)_. Se questa temporalità annulla il passato e sospende l’avvenire, che ruolo vi intrattengono l’oblio e il “saper dimenticare” teorizzati ne _Les formes de l’oubli_ (2001)?
+**1.** Lei denuncia i caratteri di “egemonia” e “oppressione” dell'attuale ideologia del presente: facciamo un passo indietro e due avanti, in modo da comprendere tale problematica nell'articolazione complessiva del suo pensiero. Possiamo ricollegare questa teoria del “non tempo” a quella del “non luogo”, definito come spazio “né identitario, né relazionale, né storico” in _Non-Lieux. Introduction à une anthropologie de la surmodernité (1992)_. Se questa temporalità annulla il passato e sospende l'avvenire, che ruolo vi intrattengono l'oblio e il “saper dimenticare” teorizzati ne _Les formes de l'oubli_ (2001)?
 
-_- In tale temporalità l’oblio e la memoria sono inseparabili. In un certo senso l’oblio scolpisce i contorni della memoria. Il rischio oggi è quello di perderli entrambi. Da una parte, non c’è oblio, tutto è archiviato; dall’altra, non c’è memoria, perché viviamo in una sorta di presente perpetuo._
-
-
-
-**2.** Nel suo lavoro antropologico, etnologico e filosofico, si è prima interessato allo studio delle società tribali della Costa D’Avorio e del Togo, per poi dedicarsi all’elaborazione di una antropologia delle società contemporanee. Da tale prospettiva, ora individua i fenomeni prevalenti delle società contemporanee nella fine dei miti e della storia, nella prevalenza del linguaggio spaziale, nel dominio delle immagini. Se la coppia concettuale e operativa predominante sembrano essere “globale” e “locale”, quale ruolo hanno universale e particolare?
-
-_- L’universale non sta dalla parte del globale, e il particolare non è il locale. Forse il locale e il globale sono in un rapporto di duplicazione? Il particolare e l’universale sono in un rapporto di complementarietà incompiuta, di rapporto dialettico. Sono entrambi dalla parte dell’individuo. Ogni individuo è unico, ma le domande che tutti gli individui si pongono sono universali._
+_- In tale temporalità l'oblio e la memoria sono inseparabili. In un certo senso l'oblio scolpisce i contorni della memoria. Il rischio oggi è quello di perderli entrambi. Da una parte, non c'è oblio, tutto è archiviato; dall'altra, non c'è memoria, perché viviamo in una sorta di presente perpetuo._
 
 
 
-**3.** In questa dittatura del presente, le ineguaglianze delle ricchezze e quella dei saperi sono funzionali agli equilibri dominanti: tuttavia, una “umanità unificata” necessita di un’ “utopia dell’educazione per tutti”. Ma come ottenerla? È appropriato configurarla con i caratteri di “immanenza della morte, necessità dell’azione, arbitrarietà del senso”, insomma come quell’ “atto eroico” caratterizzato nel _Génie du paganisme_ (1982)?
+**2.** Nel suo lavoro antropologico, etnologico e filosofico, si è prima interessato allo studio delle società tribali della Costa D'Avorio e del Togo, per poi dedicarsi all'elaborazione di una antropologia delle società contemporanee. Da tale prospettiva, ora individua i fenomeni prevalenti delle società contemporanee nella fine dei miti e della storia, nella prevalenza del linguaggio spaziale, nel dominio delle immagini. Se la coppia concettuale e operativa predominante sembrano essere “globale” e “locale”, quale ruolo hanno universale e particolare?
 
-_- Credo in effetti che un’utopia dell’educazione dovrebbe passare attraverso un totale ribaltamento della prospettiva e una morale eroica: insomma, una "scommessa"._
-
-
-
-**4.** Perseverando in tale scommessa e mantenendoci nella rottura dell’ordinaria dissimetria cognitiva eurocentrica, applichiamo metodi e contenuti dell’antropologia ai contesti della "surmodernità". Possiamo parlare di realtà post-coloniale nei paesi europei? Secondo lei l’Italia a quale sfera del mondo appartiene? Gestisce la globalizzazione o la subisce?
-
-_- Attualmente tutti i paesi, anche i più sviluppati, sono in una situazione di colonizzazione da parte di un immaginario che per la maggior parte gli sfugge. Nelle ex-colonie potremmo parlare di autocolonizzazione. L’Italia e i paesi europei più ricchi sono in una situazione di questo tipo._
+_- L'universale non sta dalla parte del globale, e il particolare non è il locale. Forse il locale e il globale sono in un rapporto di duplicazione? Il particolare e l'universale sono in un rapporto di complementarietà incompiuta, di rapporto dialettico. Sono entrambi dalla parte dell'individuo. Ogni individuo è unico, ma le domande che tutti gli individui si pongono sono universali._
 
 
 
-**5.** Proseguiamo il viaggio intrapreso su _Un ethnologue dans le métro_ (1986): in un metrò immaginario che unisce la Costa d’Avorio alle metropoli europee, quali sono le stazioni che segnano ancora la sua quotidianità?
+**3.** In questa dittatura del presente, le ineguaglianze delle ricchezze e quella dei saperi sono funzionali agli equilibri dominanti: tuttavia, una “umanità unificata” necessita di un' “utopia dell'educazione per tutti”. Ma come ottenerla? È appropriato configurarla con i caratteri di “immanenza della morte, necessità dell'azione, arbitrarietà del senso”, insomma come quell' “atto eroico” caratterizzato nel _Génie du paganisme_ (1982)?
 
-_- La mia linea di metro farebbe un giro per l’America Latina, vagherebbe in Europa (specialmente in Italia) e arriverebbe a Parigi, ma il viaggio potrebbe essere fatto anche in senso inverso._
+_- Credo in effetti che un'utopia dell'educazione dovrebbe passare attraverso un totale ribaltamento della prospettiva e una morale eroica: insomma, una "scommessa"._
+
+
+
+**4.** Perseverando in tale scommessa e mantenendoci nella rottura dell'ordinaria dissimetria cognitiva eurocentrica, applichiamo metodi e contenuti dell'antropologia ai contesti della "surmodernità". Possiamo parlare di realtà post-coloniale nei paesi europei? Secondo lei l'Italia a quale sfera del mondo appartiene? Gestisce la globalizzazione o la subisce?
+
+_- Attualmente tutti i paesi, anche i più sviluppati, sono in una situazione di colonizzazione da parte di un immaginario che per la maggior parte gli sfugge. Nelle ex-colonie potremmo parlare di autocolonizzazione. L'Italia e i paesi europei più ricchi sono in una situazione di questo tipo._
+
+
+
+**5.** Proseguiamo il viaggio intrapreso su _Un ethnologue dans le métro_ (1986): in un metrò immaginario che unisce la Costa d'Avorio alle metropoli europee, quali sono le stazioni che segnano ancora la sua quotidianità?
+
+_- La mia linea di metro farebbe un giro per l'America Latina, vagherebbe in Europa (specialmente in Italia) e arriverebbe a Parigi, ma il viaggio potrebbe essere fatto anche in senso inverso._
 
 •
 

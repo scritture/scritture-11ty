@@ -22,6 +22,7 @@ templateClass: tmpl-post
 {%- endif %}
 {%- endif %}
 #}
+
 <section class="py-5">
   <div class="container">
     <div class="row">
@@ -35,12 +36,13 @@ templateClass: tmpl-post
             </div>
           </div>
           <div class="col-lg-6 justify-content-center d-flex flex-column ps-lg-5 pt-lg-0 pt-3">
-            <h3> <a href="#" class="text-darker">{{title}}</a> </h3>
-            <h6 class="category  mt-3 " style="font-size: 120%; color: #444444" >{{subtitle}}</h6>
+            <h3> <a href="#" class="text-primary">{{title}}</a> </h3>
+            <h6 class="category  mt-3 text-secondary" style="font-size: 120%; " >{{subtitle}}</h6>
 
             <p class="author">
-              di  <a href="javascript:;" class="ms-1"><span class="font-weight-bold text-info">{{author}}</span>
-              </a>, <time datetime="{{ page.date | htmlDateString }}"> &nbsp;  {{ page.date | readableDate }} </time> 
+              di  
+              <a href="/tags/{{ author  | slugify }}" class="ms-1" ><span class="font-weight-bold text-secondary">{{author}}</span></a> ,
+              <time datetime="{{ page.date | htmlDateString }}"> &nbsp;  {{ page.date | readableDate }} </time> 
 
 
               </p>

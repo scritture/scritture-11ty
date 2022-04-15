@@ -32,9 +32,9 @@ Ho sentito il gallo bestemmiare
 Nel gelido rasoio di un mattino
 
 _Amsterdam, estate 1987
-Premio D’Annunzio e Michetti, Pescara 2000_
+Premio D'Annunzio e Michetti, Pescara 2000_
 
-<!-- more -->
+
 
 
 
@@ -42,10 +42,10 @@ Premio D’Annunzio e Michetti, Pescara 2000_
 
 Ancore calummate sul fondale
 Scafi ormeggiati alla banchina
-Dell’odore del mare intrisi
+Dell'odore del mare intrisi
 In fiamme i margini del mondo
 Sotto i bastioni della città vecchia
-Torbide le acque dell’approdo
+Torbide le acque dell'approdo
 
 E pescatori reti a riparare…
 
@@ -56,33 +56,33 @@ Premio Europeo Antonio Seccareccia 1999 Frascati_
 
 **LA SERA PRIMA DEL GIORNO DOPO**
 
-La sera prima d’incontrarci
-avevo incontrato un’altra, tu eri altrove,
-l’amico si perse sotto la pioggia per un mio ritardo
+La sera prima d'incontrarci
+avevo incontrato un'altra, tu eri altrove,
+l'amico si perse sotto la pioggia per un mio ritardo
 e lo zaino che non avevi non conteneva niente.
 
-La sera prima d’incontrarci
+La sera prima d'incontrarci
 la candela ardeva in un diverso colore
 e poi alle tre di notte avremmo mangiato
 prosciutto e melone su un terrazzo fiorito.
 
-La sera prima d’incontrarci
+La sera prima d'incontrarci
 tu non mi avresti incontrato, io ero assente, e
 tutto era come se fosse in attesa
 di noi, come se tutto fosse presagio di
 
-sfere prima che l’ora scocchi.
+sfere prima che l'ora scocchi.
 
 _Autunno 1996
-Premio D’Annunzio e Michetti, Pescara 2000_
+Premio D'Annunzio e Michetti, Pescara 2000_
 
 
 
-**PAVANE (danza d’amore e morte)**
+**PAVANE (danza d'amore e morte)**
 
 Misurando il passo, lenta nella cadenza
-terribile nell’incedere, splendida come lama
-incide a fuoco il cuore d’ogni segreto
+terribile nell'incedere, splendida come lama
+incide a fuoco il cuore d'ogni segreto
 e scempio compie solo per suo furore.
 Pedine di un gioco che regole non ha.
 
@@ -167,7 +167,7 @@ E ce la fanno a strisce
 Come se tutti fossimo
 O loro parenti o conoscenti
 O appassionati di quiz e scioglilingua
-O davvero non avessimo null’altro da fare.
+O davvero non avessimo null'altro da fare.
 
 Tra memoria e giorno dopo
 La voce rompe gli argini delle cose
@@ -178,6 +178,6 @@ Slam Poetry – Colonna 2001_
 
 •
 
-_"Porto mediterraneo" e "Grande premio a premi la poesia oggi" sono pubblicate su "Un giorno lungo un sogno", 2001; "Zona Limite" e "La sera prima d’incontrarci" su "Antologia del premio D’Annunzio e Michetti", 2000; "Pavane – Canzone d’amore e morte" sull'antologia "Premio internazionale Città di Tocco di Caudsaria", 2000; "Guerra virtuale e reale" è presente in una versione musicata sul CD audio "Parachuting Nonsense!", 2009 – e in un’altra versione sul Soundcluod a mio nome. Tutti i libri sono stati pubblicati dalle edizioni Noubs di Chieti, il CD è uscito per la label Setola di Maiale di Pordenone; la disponibilità delle opere è al momento esaurita._
+_"Porto mediterraneo" e "Grande premio a premi la poesia oggi" sono pubblicate su "Un giorno lungo un sogno", 2001; "Zona Limite" e "La sera prima d'incontrarci" su "Antologia del premio D'Annunzio e Michetti", 2000; "Pavane – Canzone d'amore e morte" sull'antologia "Premio internazionale Città di Tocco di Caudsaria", 2000; "Guerra virtuale e reale" è presente in una versione musicata sul CD audio "Parachuting Nonsense!", 2009 – e in un'altra versione sul Soundcluod a mio nome. Tutti i libri sono stati pubblicati dalle edizioni Noubs di Chieti, il CD è uscito per la label Setola di Maiale di Pordenone; la disponibilità delle opere è al momento esaurita._
 
 _Fotografia: Claudio Comandini, "Intensità" – Bologna marzo 2008._

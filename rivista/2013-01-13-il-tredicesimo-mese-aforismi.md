@@ -22,7 +22,7 @@ _Come in un calendario, il tempo ritorna e celebra nuovi inizi._
 I
 
 La goccia insegna.
-<!-- more -->
+
 
 
 
@@ -40,7 +40,7 @@ Prima si ha una deformazione, poi si sceglie un mestiere.
 
 IV
 
-Il desiderio di vuoto s’avvampa.
+Il desiderio di vuoto s'avvampa.
 
 
 
@@ -98,6 +98,6 @@ Ventre di uomo gravido di madri.
 
 •
 
-_Aforisma XIII e foto pubblicate in “Nuovo Millennio :  Nature Umane – L’ultimo calendario antico”, realizzato in collaborazione con Maurizio Vincenzo Ciminelli, Greta Correani, Massimiliano Nemez per Edizioni Creative Partner, Roma 2000._
+_Aforisma XIII e foto pubblicate in “Nuovo Millennio :  Nature Umane – L'ultimo calendario antico”, realizzato in collaborazione con Maurizio Vincenzo Ciminelli, Greta Correani, Massimiliano Nemez per Edizioni Creative Partner, Roma 2000._
 
 _Fotografia: Claudio Comandini, “Vestitinudi” – Anagni, ottobre 1995._

@@ -1,12 +1,8 @@
 ---
 author: Daniele Giannotta - Elena Stefanin
-comments: false
 date: 2016-06-05 10:00:23+00:00
 image: /images/2016/06/vermi-colorati-la-pasola-inizia-picture-by-Lukas-Pokorny-678x381.jpeg
-
-link: http://redazione.scritture.net/mag/scorre-il-sangue-fertile-la-terra-la-pasola-di-sumba/
-slug: scorre-il-sangue-fertile-la-terra-la-pasola-di-sumba
-title: 'Scorre il sangue, fertile la terra: la Pasola di Sumba'
+title: "Scorre il sangue, fertile la terra: la Pasola di Sumba"
 categories:
 - antropologia
 - religioni
@@ -27,17 +23,17 @@ _Viaggiare in bicicletta attraverso il mondo: scoprendo così che quanto sfugg
 
 
 
-**1. L'isola di Sumba: un caso di semi-colonialismo**
+** 1. L'isola di Sumba: un caso di semi-colonialismo 
 
 Nell'ancestrale villaggio di Ratenggaro, incastonato nel selvaggio paesaggio dell'est di Sumba, tutto è pronto per la Pasola. La gente si raduna qui da tutta la provincia di Kodi ed oltre. Le nostre biciclette attirano lo sguardo di molti, i volti tesi nell'attesa dell'evento sacro. Qualcuno potrebbe morire e diventare eroe, la propria tomba intagliata nella pietra monolitica. Qualcun'altro potrebbe morire, ma nell'infamia, il corpo fatto a pezzi per non aver rispettato le regole della Pasola. Ma cos'è una Pasola? Per cercare di comprenderlo dobbiamo partire da lontano, dall'antica religione Marapu. Ma prima, due parole sull'isola di Sumba.
 
-<!-- more -->![Biciclette circondate dai bambini del villaggio di Ratenggaro](/images/2016/05/Biciclette-circondate-dai-bambini-del-villaggio-di-Ratenggaro-300x200.jpg)
+![Biciclette circondate dai bambini del villaggio di Ratenggaro](/images/2016/05/Biciclette-circondate-dai-bambini-del-villaggio-di-Ratenggaro-300x200.jpg)
 
 Isola di Sumba, arcipelago di Est Nusa Tenggara, 650.000 abitanti, una delle più povere isole indonesiane, si vive di agricoltura e allevamento. Più della metà della popolazione non ha accesso all'acqua potabile, la malaria e la dengue sono molto diffuse. I medici scarseggiano e quelli che ci sono costano caro. L'isola venne colonizzata già nel XVI secolo ma, né i portoghesi prima, né gli olandesi poi, la resero una vera e propria colonia. L'isola offriva legno di sandalo e poco più, non molto remunerativo rispetto alle spezie provenienti dalle vicine isole. Questa mancanza di interesse ha favorito il mantenimento di una cultura e di una religione originali.
 
 
 
-**2. Sincretismi forzati: Marapu e Cristianesimo**
+** 2. Sincretismi forzati: Marapu e Cristianesimo 
 
 Sei sono le religioni riconosciute dal governo indonesiano: Cristianesimo, Islam, Cattolicesimo, Buddismo, Induismo e Confucianesimo. Ma le religioni praticate in Indonesia sono decine, quella Marapu è una di queste, praticata dalla maggior parte degli abitanti di Sumba.
 
@@ -49,7 +45,7 @@ In particolare sta crescendo l'influenza della chiesa evangelica riflessa nelle 
 
 
 
-**3. Introduzione alla religione Marapu**
+** 3. Introduzione alla religione Marapu
 
 Il Marapu crede che la vita terrena sia temporanea, e come dargli torto, e che la vita eterna sia nel mondo degli spiriti. Qui, gli eterni spiriti, vivono una vita simile a quella umana.
 
@@ -65,7 +61,7 @@ Gli isolani credono, infatti, che sette coppie di uomini e donne siano scese dal
 
 
 
-**4. La Pasola**
+** 4. La Pasola
 
 Questa è una Pasola, e non è un gioco. Un rito sacro dove il sangue deve sgorgare, fertilizzando metafisicamente la terra per una stagione senza carestia.
 
@@ -79,7 +75,7 @@ Poi, entrano nell'acqua, alla ricerca di vermi colorati sotto la sabbia. Se li t
 
 
 
-**5. Il racconto**
+** 5. Il racconto
 
 Il colore dominante in questa parte di Sumba è il bianco. Pedalando la costa est, tra sterrati  di roccia bianca invasi da piccole cavallette bianche e bianche spiagge immacolate, incontriamo i primi villaggi tradizionali. Le case, chiamate **__una mbatangu_,_**_ _sono di bambù con imponenti tetti di paglia. Non ci sono finestre ma piccole aperture nel muro di foglie di palma intrecciate, il ché rende tutto molto più fresco rispetto alle moderne case in mattoni. Teschi di bufalo vengono spesso posizionati all'esterno in ricordo dei sacrifici che la famiglia ha fatto. Incrociamo sguardi di uomini e donne dai denti rovinati dalle noci di betel. Il paesagio è stranamente arido per un'isola Indonesiana, eppure la stagione delle piogge è appena terminata. La vegetazione è bassa e non ci sono corsi d'acqua in questa zona.
 
@@ -97,11 +93,10 @@ Ad un certo punto iniziano a tirarsi sassi, rissa in campo, qualcuno dice che un
 
 La polizia continua a sparare, la folla, pubblico e cavalli si disperdono. È ora di andare anche per noi. Tornati in città ci dicono che la Pasola finisce sempre con la polizia che spara, in quella che abbiamo visto noi non é morto nessuno quindi si può considerare pacifica. Non però sappiamo che fine abbia fatto il tizio che ha tirato la lancia alle spalle: crediamo non sia finita bene.
 
-![Tombe, chi muore nella Pasola ha diritto ad una speciale sepoltura](/images/2016/05/Tombe-chi-muore-nella-Pasola-ha-diritto-ad-una-speciale-sepoltura-300x200.jpg)
+![Tombe, chi muore nella Pasola ha diritto ad una speciale sepoltura](/images/2016/05/tombe-chi-muore-nella-Pasola-ha-diritto-ad-una-speciale-sepoltura-300x200.jpg)
 
 In un modo o nell'altro, il sangue deve essere versato.
 
-•
 
 [_Daniele Giannotta - Elena Stefanin: “La Pasola di Sumba, dove il sangue fertilizza la terra degli avi”, «Cycloscope», 15.05.2015._](http://itcycloscope.weebly.com/blog/la-pasola-di-sumba-dove-il-sangue-fertilizza-la-terra-degli-avi)
 

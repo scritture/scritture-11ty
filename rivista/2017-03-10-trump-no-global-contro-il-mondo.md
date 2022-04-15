@@ -28,21 +28,21 @@ _Mentre per i Paesi emergenti si profila il rischio di una pericolosa crisi debi
 
 **1. La dottrina Trump**
 
-Tra i capisaldi della dottrina Trump, un elemento in particolare è sembrato emergere con forza alle prime battute della lunga campagna elettorale: l’avversione ideologica nei confronti della globalizzazione. Nei mesi che hanno preceduto la sua elezione, il magnate statunitense ha promesso di imporrei un dazio del 45% sulle importazioni cinesi accusando ufficialmente Pechino di manipolazioni della valuta.
+Tra i capisaldi della dottrina Trump, un elemento in particolare è sembrato emergere con forza alle prime battute della lunga campagna elettorale: l'avversione ideologica nei confronti della globalizzazione. Nei mesi che hanno preceduto la sua elezione, il magnate statunitense ha promesso di imporrei un dazio del 45% sulle importazioni cinesi accusando ufficialmente Pechino di manipolazioni della valuta.
 
-Ma le critiche, come noto, si sono estese anche al Messico, così come ai trattati commerciali in essere e a quelli in divenire. Il neo inquilino della Casa Bianca ha espresso l’intenzione di rivedere i dettagli del Nafta, l’intesa tra USA, Canada e Messico in vigore dal 1994, senza escludere, nella peggiore delle ipotesi, un’abrogazione dell’accordo.
+Ma le critiche, come noto, si sono estese anche al Messico, così come ai trattati commerciali in essere e a quelli in divenire. Il neo inquilino della Casa Bianca ha espresso l'intenzione di rivedere i dettagli del Nafta, l'intesa tra USA, Canada e Messico in vigore dal 1994, senza escludere, nella peggiore delle ipotesi, un'abrogazione dell'accordo.
 
-Nel mentre, ha sostanzialmente affossato le discussioni sul TTIP - l’accordo di libero scambio con l’Europa - e ha definito a Trans-Pacific-PArtenership (TPP), il piano regolamentare sugli investimenti che coinvolge dodici Paesi dell’area Asia-Pacifico, _«uno stupro per gli Stati Uniti»_.
+Nel mentre, ha sostanzialmente affossato le discussioni sul TTIP - l'accordo di libero scambio con l'Europa - e ha definito a Trans-Pacific-PArtenership (TPP), il piano regolamentare sugli investimenti che coinvolge dodici Paesi dell'area Asia-Pacifico, _«uno stupro per gli Stati Uniti»_.
 
-Retorica acchiappavoti? Può darsi, ma l’ipotesi di nuove strategie protezioniste resta comunque concreta. Con conseguenze davvero rilevanti anche a fronte di provvedimenti più leggeri rispetto a quelli annunciati.
+Retorica acchiappavoti? Può darsi, ma l'ipotesi di nuove strategie protezioniste resta comunque concreta. Con conseguenze davvero rilevanti anche a fronte di provvedimenti più leggeri rispetto a quelli annunciati.
 
 
 
 **2. Crescita globale a rischio**
 
-Sotto i riflettori, in primo luogo, c’è il futuro delle relazioni con la Cina, che nel 2015 - l’ultimo anno per il quale sono disponibili dati definitivi - ha introdotto in America prodotti di consumo, semilavorati e materie prime per quasi mezzo trilione di dollari.
+Sotto i riflettori, in primo luogo, c'è il futuro delle relazioni con la Cina, che nel 2015 - l'ultimo anno per il quale sono disponibili dati definitivi - ha introdotto in America prodotti di consumo, semilavorati e materie prime per quasi mezzo trilione di dollari.
 
-Ma i timori degli analisti si estendono anche all’economia globale. Willem Buiter, capo economista di Citigroup, ripreso da Business Insider, ritiene che le scelte di Trump potrebbero tradursi un una vera e propria guerra commerciale _«capace di innescare facilmente una recessione planetaria»_; Deutsche Bank, in una nota dell’11 novembre scorso, ha definito _«la possibile svolta protezionista»_ della Casa Bianca come _«la principale minaccia alla crescita globale»_.
+Ma i timori degli analisti si estendono anche all'economia globale. Willem Buiter, capo economista di Citigroup, ripreso da Business Insider, ritiene che le scelte di Trump potrebbero tradursi un una vera e propria guerra commerciale _«capace di innescare facilmente una recessione planetaria»_; Deutsche Bank, in una nota dell'11 novembre scorso, ha definito _«la possibile svolta protezionista»_ della Casa Bianca come _«la principale minaccia alla crescita globale»_.
 
 Secondo il chief economisti della divisione USA di Barclays, Michael Gapen, infine, il rafforzamento delle barriere commerciali potrebbe avere anche importanti ricadute per la stessa economia americana.
 
@@ -52,17 +52,17 @@ Innalzare al 15% i dazi sui prodotti cinesi a al 7% quelli sui beni messicani (e
 
 **3. Lo spettro del super dollaro**
 
-In prima fila ad attendere le temute decisioni di Trump, ci sono, idealmente, i cosiddetti mercati emergenti. Nel 2016, evidenziano le stime del Fondo Monetario Internazionale, il loro tasso di crescita si sarebbe attestati al 4,2% conto l’1,6% delle economie mature. Ma il contesto, si sa, è fatto di luci e ombre. Buona parte dell’espansione complessiva viene infatti dall’Asia, ormai impegnata in una corsa solitaria.
+In prima fila ad attendere le temute decisioni di Trump, ci sono, idealmente, i cosiddetti mercati emergenti. Nel 2016, evidenziano le stime del Fondo Monetario Internazionale, il loro tasso di crescita si sarebbe attestati al 4,2% conto l'1,6% delle economie mature. Ma il contesto, si sa, è fatto di luci e ombre. Buona parte dell'espansione complessiva viene infatti dall'Asia, ormai impegnata in una corsa solitaria.
 
-L’America Latina, per contro, ha chiuso in recessione mentre l’Africa Subsahariana ha sperimentato un aumento del PIL pari all’1,4%, il livello più basso dal 1994. Tutte le aree in esame, però, sembrano avere una preoccupazione in comune: un ulteriore, eccessivo e insostenibile rialzo del dollaro. E anche qui, ovviamente, non si può non parlare di effetto-Trump.
+L'America Latina, per contro, ha chiuso in recessione mentre l'Africa Subsahariana ha sperimentato un aumento del PIL pari all'1,4%, il livello più basso dal 1994. Tutte le aree in esame, però, sembrano avere una preoccupazione in comune: un ulteriore, eccessivo e insostenibile rialzo del dollaro. E anche qui, ovviamente, non si può non parlare di effetto-Trump.
 
-Il neo-inquilino della Casa Bianca ha promesso di contribuire al rilanci dell’economia attraverso nuovi investimenti infrastrutturali, una strategia con annessi rischi inflazionistici che implica, ovviamente, la scontata contromossa della FED.
+Il neo-inquilino della Casa Bianca ha promesso di contribuire al rilanci dell'economia attraverso nuovi investimenti infrastrutturali, una strategia con annessi rischi inflazionistici che implica, ovviamente, la scontata contromossa della FED.
 
-Lo scorso 18 novembre, l’aspettativa di un imminente rialzo dei tassi - materializzatosi puntualmente un mese dopo - era già stato sufficiente a spingere l’ICE Dollar Index, un indicatore del valore del biglietto verde basato su un paniere di sei diverse valute, a quota 100.53, il livello più altro dall’aprile 2003.
+Lo scorso 18 novembre, l'aspettativa di un imminente rialzo dei tassi - materializzatosi puntualmente un mese dopo - era già stato sufficiente a spingere l'ICE Dollar Index, un indicatore del valore del biglietto verde basato su un paniere di sei diverse valute, a quota 100.53, il livello più altro dall'aprile 2003.
 
-Se la tendenza dovesse essere confermata, il rischio è che a patire le conseguenze peggiori siano in primo luogo i Paesi emergenti e in via di sviluppo, i cui debiti, spesso contratti in dollari, diventano automaticamente più costosi da restituire. I primi segnali d’allarme si stanno già manifestando in Africa, dove negli ultimi anni sono cresciute le emissioni di titoli di Stato in valuta estera (e dove i titoli di stato reagiscono male al successo di Trump e alle prospettive di apprezzamento del dollaro).
+Se la tendenza dovesse essere confermata, il rischio è che a patire le conseguenze peggiori siano in primo luogo i Paesi emergenti e in via di sviluppo, i cui debiti, spesso contratti in dollari, diventano automaticamente più costosi da restituire. I primi segnali d'allarme si stanno già manifestando in Africa, dove negli ultimi anni sono cresciute le emissioni di titoli di Stato in valuta estera (e dove i titoli di stato reagiscono male al successo di Trump e alle prospettive di apprezzamento del dollaro).
 
-Ma il problema riguarda ovviamente le “nuove economie” nel loro insieme. All’inizio del 2016, segnala la Banca dei Regolamenti Internazionali, il debito denominato in valuta americana dei governi e delle società private (banche escluse) dei paesi emergenti valeva 3,2 trilioni di dollari, quasi il doppio rispetto all’ammontare registrato nel 2009. Da qui al 2018, ha ricordato Bloomberg, le compagnie private dovranno saldare oltre il 10% della cifra (340 miliardi) facendo i conti, con ogni probabilità, con un cambio più favorevole.
+Ma il problema riguarda ovviamente le “nuove economie” nel loro insieme. All'inizio del 2016, segnala la Banca dei Regolamenti Internazionali, il debito denominato in valuta americana dei governi e delle società private (banche escluse) dei paesi emergenti valeva 3,2 trilioni di dollari, quasi il doppio rispetto all'ammontare registrato nel 2009. Da qui al 2018, ha ricordato Bloomberg, le compagnie private dovranno saldare oltre il 10% della cifra (340 miliardi) facendo i conti, con ogni probabilità, con un cambio più favorevole.
 
 Una prospettiva poco incoraggiante. _«Gli investitori del comparto obbligazionario prendano nota»_, scrive Bloomberg. _«Non è esagerato pensare che questa svendita del debito dei mercati in via di sviluppo possa peggiorare con conseguenze di vasta portata sui mercati di tutto il mondo»_.
 

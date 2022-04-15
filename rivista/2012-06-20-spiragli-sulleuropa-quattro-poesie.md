@@ -23,24 +23,24 @@ _Quattro poesie di viaggio: Texel, Praga, Monaco, Sitges._
 
 **LA FABBRICA DELLE NUVOLE**
 
-Nuvole dall’elefantessa bianca partorite
+Nuvole dall'elefantessa bianca partorite
 Nuvole nel punto morto superiore
 Nuvole come confezioni di supposte
 Nuvole in accordo di terza maggiore
 
 _texel, estate 88_
 
-<!-- more -->
+
 
 **AL VECCHIO CIMITERO EBRAICO DI PRAGA**
 
 E lapidi su lapidi alla terra abbandonate
 La memoria di un ciottolo o una cifra
-Grappoli d’uva sull’arenaria scolpiti.
+Grappoli d'uva sull'arenaria scolpiti.
 
-E l’uno sull’altro nove livelli di sepolti
+E l'uno sull'altro nove livelli di sepolti
 Parole di una lingua da nessuno più compresa
-L’intreccio dei sambuchi protende le radici.
+L'intreccio dei sambuchi protende le radici.
 
 _praga, inverno 91_
 
@@ -53,10 +53,10 @@ Nella piazza del municipio di Monaco
 sugli strepiti della folla tranquilla
 il sole si uccide con passo leggero.
 
-Del sol levante passa raminga un’ombra
+Del sol levante passa raminga un'ombra
 ed un cenno mi fa.
-Va. Perdo il rimbalzo – l’attimo fugge.
-Nell’oscurità la cerco inutilmente
+Va. Perdo il rimbalzo – l'attimo fugge.
+Nell'oscurità la cerco inutilmente
 e nella memoria mi insegue ancora.
 
 _monaco, estate 87_
@@ -76,8 +76,8 @@ _sitges, inverno 85_
 
 Note di copertina:
 
-_Il LARP (LABORATORIO APERTO DI RICERCA POETICA) è un gruppo di giovani poeti che legge, e si legge, critica e discute con l’ospite unico e graditissimo di ogni serata che è la poesia. Dal settembre del ’91 si rinnova l’incontro, e lo scontro, udite udite, di poetiche eterogenee; qui dentro si possono individuare tutte le tensioni interne alla poesia del ’900 e non solo, direbbe il critico intelligente. Il menù prevede inoltre: scrittura collettiva e individuale a tema e non, e – a uso esterno – letture pubbliche in locali pronti ad accogliere la poesia, in altri non pronti ad accoglierla, in metropolitana ecc. ecc._
-_ Avvertenza: l’antologia che da qui a poco inizierete a leggere chiude solamente il primo anno di attività, ergo…_
+_Il LARP (LABORATORIO APERTO DI RICERCA POETICA) è un gruppo di giovani poeti che legge, e si legge, critica e discute con l'ospite unico e graditissimo di ogni serata che è la poesia. Dal settembre del '91 si rinnova l'incontro, e lo scontro, udite udite, di poetiche eterogenee; qui dentro si possono individuare tutte le tensioni interne alla poesia del '900 e non solo, direbbe il critico intelligente. Il menù prevede inoltre: scrittura collettiva e individuale a tema e non, e – a uso esterno – letture pubbliche in locali pronti ad accogliere la poesia, in altri non pronti ad accoglierla, in metropolitana ecc. ecc._
+_ Avvertenza: l'antologia che da qui a poco inizierete a leggere chiude solamente il primo anno di attività, ergo…_
 
 Autori:
 

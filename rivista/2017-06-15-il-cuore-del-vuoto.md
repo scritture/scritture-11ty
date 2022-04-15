@@ -27,7 +27,7 @@ LXXXV
 La Porta non ha serrature, non farti distrarre.
 
 II
-Osserva, agisci, ma lascia accadere dall’alto; confida.
+Osserva, agisci, ma lascia accadere dall'alto; confida.
 
 XII
 Ama il tuo cavallo, figliolo, ma la direzione decidila tu.
@@ -48,7 +48,7 @@ V
 Non rinunciai al mondo: anzi, mi ci immersi. Rinunciai, invece, alla vostra velocità.
 
 XXXIX
-Ora è silenzio, anche nell’azione.
+Ora è silenzio, anche nell'azione.
 
 IX
 C'è sempre una possibilità diversa, ed è miracolo.
@@ -57,7 +57,7 @@ XXX
 Ma non vedi?
 
 XXVI
-L’ultima parola del Maestro fu un sorriso.
+L'ultima parola del Maestro fu un sorriso.
 
 •
 
