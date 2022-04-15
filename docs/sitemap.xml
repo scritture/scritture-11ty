@@ -957,7 +957,7 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/number-2/</loc>
+    <loc>/scritture-11ty/tags/another-tag/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -967,12 +967,17 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/posts-with-two-tags/</loc>
+    <loc>/scritture-11ty/tags/number-2/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/another-tag/</loc>
+    <loc>/scritture-11ty/tags/vinolibreria/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/posts-with-two-tags/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -1012,27 +1017,67 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/escamontage/</loc>
+    <loc>/scritture-11ty/tags/basso-impero/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/finanza-tossica/</loc>
+    <loc>/scritture-11ty/tags/frascati/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/internet/</loc>
+    <loc>/scritture-11ty/tags/roma/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/perniola/</loc>
+    <loc>/scritture-11ty/tags/castelli-romani/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/social-network/</loc>
+    <loc>/scritture-11ty/tags/gregorovius/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/le-goff/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/liutprando-da-cremona/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/mario-sanfilippo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/pier-damiani/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/piranesi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/rodolfo-il-glabro/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/templari/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/tuscolo/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -1098,6 +1143,116 @@
   
   <url>
     <loc>/scritture-11ty/tags/weininger/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/finanza-tossica/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/internet/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/perniola/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/social-network/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/agamben/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/arutiuniam/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/butch-morris/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/carisi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/copland/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/giancarlo-schiaffini/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/gunter-muller/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/hindemit/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/improvvisazione/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/istanbul/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/jolivet/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/otomo-yoshihide/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/sauter/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/thurston-moore/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/walter-prati/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/wiltgen/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/wolff/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/wolpe/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -1187,7 +1342,112 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/agamben/</loc>
+    <loc>/scritture-11ty/tags/alan-moore/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/alessandro-di-nocera/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/angelo-aquaro/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/batman/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/christofer-nolan/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/dc/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/frank-miller/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/fredric-werthan/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/garth-ennis/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/hellblazer/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/james-holmes/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/mike-carey/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/neil-gaiman/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/pasquale-cinquemani/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/preacher/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/pulp/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/sandman/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/simon-bisley/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/vertigo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/europa/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/immigrazione/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/narrazioni/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -1317,217 +1577,57 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/arutiuniam/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/butch-morris/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/carisi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/copland/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/giancarlo-schiaffini/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/gunter-muller/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/hindemit/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/improvvisazione/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/istanbul/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/jolivet/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/otomo-yoshihide/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/sauter/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/thurston-moore/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/walter-prati/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/wiltgen/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/wolff/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/wolpe/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/europa/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/alan-moore/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/alessandro-di-nocera/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/angelo-aquaro/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/batman/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/christofer-nolan/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/dc/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/frank-miller/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/fredric-werthan/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/garth-ennis/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/hellblazer/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/james-holmes/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/mike-carey/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/neil-gaiman/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/pasquale-cinquemani/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/preacher/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/pulp/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/sandman/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/simon-bisley/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/vertigo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/basso-impero/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/frascati/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/immigrazione/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/narrazioni/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/roma/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/11-settembre/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/bernays/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/cicerone/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/gandhi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/goebbels/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/habermas/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/mussolini/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/pornografia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/psicologia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/recalcati/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/rumsfeld/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -1572,11 +1672,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/rumsfeld/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/ruppert/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -1588,76 +1683,6 @@
   
   <url>
     <loc>/scritture-11ty/tags/von-bulow/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/8-settembre/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/bentivoglio/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/cicerone/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/dante/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/ferruccio-civra/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/feyerabend/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/ii-guerra-mondiale/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/impressionismo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/retorica-musicale/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/schonberg/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/tiziano-costa/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/tristan-honsinger/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/vignola/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/america/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -1757,152 +1782,67 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/bibesco/</loc>
+    <loc>/scritture-11ty/tags/8-settembre/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/bisanzio/</loc>
+    <loc>/scritture-11ty/tags/bentivoglio/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/castelli-romani/</loc>
+    <loc>/scritture-11ty/tags/dante/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/derrida/</loc>
+    <loc>/scritture-11ty/tags/ferruccio-civra/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/flaubert/</loc>
+    <loc>/scritture-11ty/tags/feyerabend/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/james-frazer/</loc>
+    <loc>/scritture-11ty/tags/ii-guerra-mondiale/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/turchia/</loc>
+    <loc>/scritture-11ty/tags/impressionismo/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/appennino/</loc>
+    <loc>/scritture-11ty/tags/retorica-musicale/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/ardengo-soffici/</loc>
+    <loc>/scritture-11ty/tags/schonberg/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/dacia-manto/</loc>
+    <loc>/scritture-11ty/tags/tiziano-costa/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/dino-borri/</loc>
+    <loc>/scritture-11ty/tags/tristan-honsinger/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/eugenio-riccomi/</loc>
+    <loc>/scritture-11ty/tags/vignola/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/giorgio-morandi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/giulia-dall&amp;amp;#39;olio/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/graziano-pompili/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/joan-m.-lukach/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/laura-baldassarri/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/massimo-ilardi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/maurizio-bottarelli/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/metropoli/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/thelonious-monk/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/gregorovius/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/le-goff/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/liutprando-da-cremona/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/mario-sanfilippo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/pier-damiani/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/piranesi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/rodolfo-il-glabro/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/templari/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/tuscolo/</loc>
+    <loc>/scritture-11ty/tags/america/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -2007,6 +1947,201 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/appennino/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/ardengo-soffici/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/dacia-manto/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/derrida/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/dino-borri/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/eugenio-riccomi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/giorgio-morandi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/giulia-dall&amp;amp;#39;olio/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/graziano-pompili/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/joan-m.-lukach/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/laura-baldassarri/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/massimo-ilardi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/maurizio-bottarelli/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/metropoli/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/thelonious-monk/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/berlusconi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/bersani/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/bobby-solo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/boniver/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/casini/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/craxi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/domenico-de-masi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/elio-e-le-storie-tese/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/fabio-fazio/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/festival-di-sanremo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/gianni-borgna/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/giorgio-colli/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/giovanni-scrofani/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/grillo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/luigi-tenco/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/mastella/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/maurizio-crozza/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/michele-serra/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/mogol/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/monti/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/orietta-berti/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/salvatore-quasimodo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/toto-cotugno/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/un-disco-per-l&amp;amp;#39;estate/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/alfieri/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -2058,11 +2193,6 @@
   
   <url>
     <loc>/scritture-11ty/tags/francia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/giorgio-colli/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -2207,57 +2337,27 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/barthes/</loc>
+    <loc>/scritture-11ty/tags/bibesco/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/calvino/</loc>
+    <loc>/scritture-11ty/tags/bisanzio/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/dubois/</loc>
+    <loc>/scritture-11ty/tags/flaubert/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/editoria/</loc>
+    <loc>/scritture-11ty/tags/james-frazer/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/ferroni/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/filosofia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/foucault/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/letteratura/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/pound/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/schopenauer/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/svevo/</loc>
+    <loc>/scritture-11ty/tags/turchia/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -2452,11 +2552,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/mussolini/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/osimo/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -2528,6 +2623,66 @@
   
   <url>
     <loc>/scritture-11ty/tags/vito-timmel/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/barthes/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/calvino/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/dubois/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/editoria/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/ferroni/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/filosofia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/foucault/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/letteratura/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/pound/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/schopenauer/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/svevo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/premi/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -2677,157 +2832,7 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/berlusconi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/bersani/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/bobby-solo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/boniver/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/casini/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/craxi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/domenico-de-masi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/elio-e-le-storie-tese/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/fabio-fazio/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/festival-di-sanremo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/gianni-borgna/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/giovanni-scrofani/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/grillo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/luigi-tenco/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/mastella/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/maurizio-crozza/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/michele-serra/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/mogol/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/monti/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/orietta-berti/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/psicologia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/salvatore-quasimodo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/toto-cotugno/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/un-disco-per-l&amp;amp;#39;estate/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/premi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/bernays/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/gandhi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/goebbels/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/habermas/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/pornografia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/recalcati/</loc>
+    <loc>/scritture-11ty/tags/escamontage/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -3057,6 +3062,76 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/benjamin/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/diogene-laerzio/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/eschilo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/euripide/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/fichte/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/heidegger/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/leo-strauss/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/omero/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/prometeo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/protagora/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/sergio-givone/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/socrate/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/umberto-curi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/vangeli/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/antonio-picasso/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -3202,41 +3277,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/bessarione/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/eusebio-di-cesarea/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/giorgio-scholarios/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/grecia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/mandylion/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/odessa/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/parigi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/guerra-fredda/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -3272,72 +3312,37 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/benjamin/</loc>
+    <loc>/scritture-11ty/tags/bessarione/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/diogene-laerzio/</loc>
+    <loc>/scritture-11ty/tags/eusebio-di-cesarea/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/eschilo/</loc>
+    <loc>/scritture-11ty/tags/giorgio-scholarios/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/euripide/</loc>
+    <loc>/scritture-11ty/tags/grecia/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/fichte/</loc>
+    <loc>/scritture-11ty/tags/mandylion/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/heidegger/</loc>
+    <loc>/scritture-11ty/tags/odessa/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/leo-strauss/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/omero/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/prometeo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/protagora/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/sergio-givone/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/socrate/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/umberto-curi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/vangeli/</loc>
+    <loc>/scritture-11ty/tags/parigi/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -3912,6 +3917,36 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/averroe/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/costantinopoli/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/gerusalemme/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/giordano-bruno/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/graal/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/new-york/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/aleks-kuntz/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -4092,66 +4127,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/averroe/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/costantinopoli/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/gerusalemme/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/giordano-bruno/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/graal/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/new-york/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/carducci/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/govoni/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/luzi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/pascoli/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/sannazzaro/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/verlaine/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/bulgaria/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -4187,87 +4162,52 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/ataturk/</loc>
+    <loc>/scritture-11ty/tags/carducci/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/cccp/</loc>
+    <loc>/scritture-11ty/tags/govoni/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/deurim-erbil/</loc>
+    <loc>/scritture-11ty/tags/luzi/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/gens-anicia/</loc>
+    <loc>/scritture-11ty/tags/pascoli/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/genserico/</loc>
+    <loc>/scritture-11ty/tags/sannazzaro/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/husein-rifat/</loc>
+    <loc>/scritture-11ty/tags/verlaine/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/huseyin-gezer/</loc>
+    <loc>/scritture-11ty/tags/gainsbourg/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/lamartine/</loc>
+    <loc>/scritture-11ty/tags/jane-birkin/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/le-courbusier/</loc>
+    <loc>/scritture-11ty/tags/la-mecca/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/maometto-ii/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/mercan-dede/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/orfeo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/oscar-wilde/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/proclo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/sabri-berkel/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/sefarditi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/zen/</loc>
+    <loc>/scritture-11ty/tags/medio-oriente/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -4278,6 +4218,11 @@
   
   <url>
     <loc>/scritture-11ty/tags/cardini/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/cccp/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -4338,131 +4283,6 @@
   
   <url>
     <loc>/scritture-11ty/tags/sartre/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/bradbury/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/de-sade/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/diritti/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/eliade/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/evola/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/hume/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/huxley/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/john-donne/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/judith-butler/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/la-cecla/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/reich/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/samuel-aum-weor/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/tantra/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/transessuali/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/von-baader/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/crisi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/finanza/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/paolo-barnard/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/ronald-dore/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/stiglitz/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/varoufakis/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/gainsbourg/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/jane-birkin/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/la-mecca/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/medio-oriente/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -4582,6 +4402,11 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/varoufakis/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/will-opitz/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -4602,22 +4427,82 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/david-bowie/</loc>
+    <loc>/scritture-11ty/tags/ataturk/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/fantascienza/</loc>
+    <loc>/scritture-11ty/tags/deurim-erbil/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/kubrick/</loc>
+    <loc>/scritture-11ty/tags/gens-anicia/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/rock/</loc>
+    <loc>/scritture-11ty/tags/genserico/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/husein-rifat/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/huseyin-gezer/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/lamartine/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/le-courbusier/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/maometto-ii/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/mercan-dede/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/orfeo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/oscar-wilde/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/proclo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/sabri-berkel/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/sefarditi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/zen/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -4642,32 +4527,122 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/angelo-favaro/</loc>
+    <loc>/scritture-11ty/tags/bradbury/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/faraon-meteors/</loc>
+    <loc>/scritture-11ty/tags/de-sade/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/stefano-amorese/</loc>
+    <loc>/scritture-11ty/tags/diritti/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/tony-harrison/</loc>
+    <loc>/scritture-11ty/tags/eliade/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/lipsia/</loc>
+    <loc>/scritture-11ty/tags/evola/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/performance/</loc>
+    <loc>/scritture-11ty/tags/hume/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/huxley/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/john-donne/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/judith-butler/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/la-cecla/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/reich/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/samuel-aum-weor/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/tantra/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/transessuali/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/von-baader/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/crisi/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/finanza/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/paolo-barnard/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/ronald-dore/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/stiglitz/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/david-bowie/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/fantascienza/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/kubrick/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/rock/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -4712,66 +4687,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/lorenzo-scillitani/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/massimo-bray/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/liguria/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/don-cherry/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/jackson-pollock/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/ornette-coleman/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/impresa/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/otranto/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/assange/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/bruxelles/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/guerra/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/jugoslavia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/angela-merkel/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -4797,32 +4712,7 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/arthur-conan-doyle/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/edgar-allan-poe/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/ellery-queen/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/georges-simenon/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/john-dickinson-carr/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/rex-stout/</loc>
+    <loc>/scritture-11ty/tags/lorenzo-scillitani/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -4877,6 +4767,76 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/don-cherry/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/jackson-pollock/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/ornette-coleman/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/massimo-bray/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/arthur-conan-doyle/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/edgar-allan-poe/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/ellery-queen/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/georges-simenon/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/john-dickinson-carr/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/rex-stout/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/assange/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/bruxelles/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/guerra/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/jugoslavia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/andre-gide/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -4887,7 +4847,22 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/massimo-pamio/</loc>
+    <loc>/scritture-11ty/tags/lipsia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/performance/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/impresa/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/otranto/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -4947,22 +4922,32 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/massimo-pamio/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/annamaria-testa/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/renato-curcio/</loc>
+    <loc>/scritture-11ty/tags/angelo-favaro/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/brian-m.-bendis/</loc>
+    <loc>/scritture-11ty/tags/faraon-meteors/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/valentino/</loc>
+    <loc>/scritture-11ty/tags/stefano-amorese/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/tony-harrison/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -4977,32 +4962,7 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/friedrich-hayek/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/george-monbiot/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/inghilterra/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/ludwig-von-mises/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/margaret-thatcher/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/milton-friedman/</loc>
+    <loc>/scritture-11ty/tags/renato-curcio/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5033,6 +4993,16 @@
   
   <url>
     <loc>/scritture-11ty/tags/populismo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/brian-m.-bendis/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/valentino/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5077,6 +5047,46 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/friedrich-hayek/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/george-monbiot/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/inghilterra/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/ludwig-von-mises/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/margaret-thatcher/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/milton-friedman/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/anne-fausto-sterling/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/liguria/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/gianluca-varone/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -5102,17 +5112,27 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/anne-fausto-sterling/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/primo-levi/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
     <loc>/scritture-11ty/tags/trump/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/alejandro-inarritu/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/laurence-olivier/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/tarantino/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5147,41 +5167,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/m5s/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/pd/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/torino/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/virginia-raggi/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/alejandro-inarritu/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/laurence-olivier/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/tarantino/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/benedetto-vecchi/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -5202,12 +5187,22 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/enzensberger/</loc>
+    <loc>/scritture-11ty/tags/m5s/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/francesca-borri/</loc>
+    <loc>/scritture-11ty/tags/pd/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/torino/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/virginia-raggi/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5242,6 +5237,21 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/antonio-caronia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/enzensberger/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/francesca-borri/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/davide-miccione/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -5252,22 +5262,7 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/antonio-caronia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/brexit/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/godel/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/george-weigel/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5278,6 +5273,16 @@
   
   <url>
     <loc>/scritture-11ty/tags/giorno-della-memoria/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/george-weigel/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/godel/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5298,6 +5303,21 @@
   
   <url>
     <loc>/scritture-11ty/tags/psichedelia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/lino-ricchiuti/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/politica/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/terremoto/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5327,22 +5347,12 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/lino-ricchiuti/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/politica/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/terremoto/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/tiziana-cantone/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/dama-bianca/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5363,11 +5373,6 @@
   
   <url>
     <loc>/scritture-11ty/tags/brian-eno/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/dama-bianca/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5402,22 +5407,12 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/ashley-randal/</loc>
+    <loc>/scritture-11ty/tags/alfonso-liguori/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/caterina-stile/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/daniel-l.-carlson/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/devon-proudfoot/</loc>
+    <loc>/scritture-11ty/tags/democrazia/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5452,22 +5447,42 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/ashley-randal/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/caterina-stile/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/daniel-l.-carlson/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/devon-proudfoot/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/giornalismo/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/katharine-viner/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/barbara-carnevali/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
     <loc>/scritture-11ty/tags/francois-cusset/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/alfonso-liguori/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/democrazia/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5483,16 +5498,6 @@
   
   <url>
     <loc>/scritture-11ty/tags/premio-nobel/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/giornalismo/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/katharine-viner/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5587,31 +5592,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/roberto-vannucci/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/massimiliano-tonelli/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/tomaso-montanari/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/nino-spirli/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/matteo-cavallitto/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/antonella-riccardi/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -5662,6 +5642,91 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/massimiliano-tonelli/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/tomaso-montanari/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/roberto-vannucci/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/nino-spirli/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/matteo-cavallitto/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/ferruccio-busoni/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/miles-davis/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/musica/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/andrei-rossius/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/filippo-tarantino/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/florinda-vigni/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/gerardo-bianco/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/gerardo-marotta/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/istituto-italiano-per-gli-studi-filosofici/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/luigi-miraglia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/maurizio-torrini/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/vivarium-novum/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/accanimento-terapeutico/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -5688,6 +5753,16 @@
   
   <url>
     <loc>/scritture-11ty/tags/testamento-biologico/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/alessandro-maini/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/taoismo/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5747,72 +5822,12 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/andrei-rossius/</loc>
+    <loc>/scritture-11ty/tags/giacobiti/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/filippo-tarantino/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/florinda-vigni/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/gerardo-bianco/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/gerardo-marotta/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/istituto-italiano-per-gli-studi-filosofici/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/luigi-miraglia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/maurizio-torrini/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/vivarium-novum/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/ferruccio-busoni/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/miles-davis/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/musica/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/alessandro-maini/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/taoismo/</loc>
+    <loc>/scritture-11ty/tags/stuart/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -5917,41 +5932,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/giacobiti/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/stuart/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/mark-hay/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/cristiano-luciani/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/kavafis/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/sbarbaro/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/seferis/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/migranti/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -5963,6 +5943,11 @@
   
   <url>
     <loc>/scritture-11ty/tags/stefano-pasta/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/mark-hay/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -6002,36 +5987,6 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/michele-iacono/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/siria/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/enogastronomia/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/leonardo-da-vinci/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/luca-maroni/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/vino/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>/scritture-11ty/tags/giorgio-grossi/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -6067,6 +6022,36 @@
   </url>
   
   <url>
+    <loc>/scritture-11ty/tags/john-a.-garraty/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/ruth-ben-ghiat/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/cristiano-luciani/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/kavafis/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/sbarbaro/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/seferis/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
     <loc>/scritture-11ty/tags/curzio-malaparte/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -6078,36 +6063,6 @@
   
   <url>
     <loc>/scritture-11ty/tags/mauro-canali/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/john-a.-garraty/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/ruth-ben-ghiat/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/florenskj/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/piotr-merkurj/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/pittura/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/roberto-grossatesta/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -6157,42 +6112,27 @@
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/andrea-appetito/</loc>
+    <loc>/scritture-11ty/tags/florenskj/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/narrativa/</loc>
+    <loc>/scritture-11ty/tags/leonardo-da-vinci/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/rashid-husain/</loc>
+    <loc>/scritture-11ty/tags/piotr-merkurj/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/religione/</loc>
+    <loc>/scritture-11ty/tags/pittura/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
   <url>
-    <loc>/scritture-11ty/tags/s.-yzhar/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/vinolibreria/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/davide-rondoni/</loc>
-    <lastmod>2022-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>/scritture-11ty/tags/enrico-fraccacreta/</loc>
+    <loc>/scritture-11ty/tags/roberto-grossatesta/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
@@ -6208,6 +6148,66 @@
   
   <url>
     <loc>/scritture-11ty/tags/franco-cordelli/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/davide-rondoni/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/enrico-fraccacreta/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/andrea-appetito/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/narrativa/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/enogastronomia/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/luca-maroni/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/vino/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/michele-iacono/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/siria/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/rashid-husain/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/religione/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scritture-11ty/tags/s.-yzhar/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
   
