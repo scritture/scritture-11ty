@@ -24,9 +24,13 @@ tags:
 - Scritture
 ---
 
+<<<<<<< HEAD
 _Pubblicazione italiane recenti quali la sterminata teologia dell'"Esegesi" (edizione americana 2011) e il libro critico di John Carré "Io sono vivo voi siete morti" (edizione francese 1993) mantengono vive le attenzioni nei confronti di Philip Dick. Autore di opere decisive per la fantascienza contemporanea come "The man in the Caste" (1962, tradotto come "La svastica sul sole"), "Do the android dream electric sheeps" (1968, conosciuto anche come "Il cacciatore di androidi", ne è stato tratto il cult-movie di Ridley Scott "Blade Runner", 1982), non alieno da escursioni nella letteratura mainstream quali "Confession of a Crap Artist" (pubblicato nel 1975 molto dopo la sua stesura e tradotto come "Confessioni di un artista di merda") e da singolari contaminazioni di generi ("A Scanner Darkly", 1975 - tradotto come "Un oscuro scrutare", da cui l'omonimo film con animazioni digitali diretto da Richrd Linklater, 2006) e "Divine Invasion", 1981, "Divina Invasione", uno degli ultimi pubblicati in vita. Dick, ormai riconosciuto tra i grandi autori del Novecento, amava definirsi quale «filosofo narrativo»: infatti, le sue narrazioni, decisamente singolari e ricercate al punto di  forzare meccanismi troppo sicuri, non si esauriscono mai nell'intrattenimento e sono sempre funzionali ad avventure intellettuali intenzionate a scandagliare gli incerti fondamenti di un mondo incerto. Le tematiche affrontate riguardano le questioni del potere, i rapporti tra uomo, animale e macchina, quelli tra mistica e droga, tempo e conoscenza. Ne analizza motivi e fortuna uno scritto del grande studioso Antonio Caronia._
+=======
+Pubblicazione italiane recenti quali la sterminata teologia dell’"Esegesi" (edizione americana 2011) e il libro critico di John Carré "Io sono vivo voi siete morti" (edizione francese 1993) mantengono vive le attenzioni nei confronti di Philip Dick. Autore di opere decisive per la fantascienza contemporanea come "The man in the Caste" (1962, tradotto come "La svastica sul sole"), "Do the android dream electric sheeps" (1968, conosciuto anche come "Il cacciatore di androidi", ne è stato tratto il cult-movie di Ridley Scott "Blade Runner", 1982), non alieno da escursioni nella letteratura mainstream quali "Confession of a Crap Artist" (pubblicato nel 1975 molto dopo la sua stesura e tradotto come "Confessioni di un artista di merda") e da singolari contaminazioni di generi ("A Scanner Darkly", 1975 - tradotto come "Un oscuro scrutare", da cui l’omonimo film con animazioni digitali diretto da Richrd Linklater, 2006) e "Divine Invasion", 1981, "Divina Invasione", uno degli ultimi pubblicati in vita. Dick, ormai riconosciuto tra i grandi autori del Novecento, amava definirsi quale «filosofo narrativo»: infatti, le sue narrazioni, decisamente singolari e ricercate al punto di  forzare meccanismi troppo sicuri, non si esauriscono mai nell’intrattenimento e sono sempre funzionali ad avventure intellettuali intenzionate a scandagliare gli incerti fondamenti di un mondo incerto. Le tematiche affrontate riguardano le questioni del potere, i rapporti tra uomo, animale e macchina, quelli tra mistica e droga, tempo e conoscenza. Ne analizza motivi e fortuna uno scritto del grande studioso Antonio Caronia.
+>>>>>>> 447356bae51cb1b61e7ac104f92d9d1782bc4158
 
-**1. Narrazioni improbabili e paesaggi concettuali**
+## 1. Narrazioni improbabili e paesaggi concettuali
 
 Il 2 marzo 1982, in un ospedale dell'Orange County, California, moriva Philip K. Dick. In quel momento Dick non era ancora diventato un autore _di culto_ (tranne, forse, per certi aspetti, in Francia): era dunque conosciuto solo fra i lettori di fantascienza, genere a cui si era dedicato (volente o nolente – all'inizio della sua carriera più nolente che volente) per tutta la sua vita. Ma in questo frattempo la sua fama è cresciuta, anche fuori dagli angusti confini del genere, e Dick è oggi considerato come uno dei più importanti scrittori del secondo Novecento.
 
@@ -38,7 +42,7 @@ Dico questo perché mi sembra giunto il momento, a trent'anni dalla morte, di te
 
 
 
-**2. Una smisurata curiosità**
+## 2. Una smisurata curiosità
 
 Ma Dick è stato capace di una ricerca filosofica, di una vera e bruciante interrogazione sull'avventura umana, di una critica corrosiva e radicale delle categorie con le quali l'uomo definisce la realtà del mondo, la sua propria realtà come “soggetto”, e la verità dell'uno e dell'altro. E questo senza alcuno studio sistematico della filosofia, di nessuna filosofia (né di quella occidentale né di quelle orientali), ma semmai con una pletora di letture affastellate, spesso disordinate, a volte superficiali. Ma gli bastarono quelle, congiunte all'intensità della sua interrogazione su se stesso, alla sua smisurata curiosità sul mondo, alla sua incredibile (spesso ingenua) apertura all'altro, per produrre uno dei corpus più originali di “narrativa filosofica”, un corpus che (a suo modo) non sfigura accanto a quello di.
 
@@ -54,7 +58,11 @@ Il secondo passo sarebbe quello di identificare gli assi portanti (se si possono
 
 
 
+<<<<<<< HEAD
 **3. Interrogativi sull'umano**
+=======
+## 3. Interrogativi sull’umano
+>>>>>>> 447356bae51cb1b61e7ac104f92d9d1782bc4158
 
 Questa dichiarazione, con l'accostamento dei due temi, è stata citata e ripetuta talmente tante volte da diventare (credo) quasi un luogo comune, un patrimonio condiviso di ogni lettore “forte” di Dick. Essa comporterebbe, a rigore, l'idea che nella narrativa di Dick coesistano due dominanti, una ontologica e una epistemologica, una sul mondo e una sull'uomo (o meglio sul soggetto). E tuttavia (posso sbagliare, certo), mi pare che gran parte della ricerca letteraria, concettuale, interpretativa, sulla narrativa di Dick, si sia concentrata prevalentemente sull'aspetto ontologico. Montagne di pagine sono state scritte sulla concezione dickiana della realtà, sul tempo percettivo e il tempo ortogonale, sugli universi paralleli, sulla concezione della tecnica, sulla visione della storia. Forse questo deriva dall'ipotesi (che forse è un pregiudizio, e forse andrebbe più attentamente verificata) che, mentre la dominante della narrativa modernista era la questione del soggetto, nella narrativa postmodernista (in cui Dick viene di solito arruolato) la preoccupazione dominante sia la realtà, cioè l'ontologia.
 
@@ -64,7 +72,7 @@ L'osservazione vale anche come autocritica, perché mi pare di essere caduto anc
 
 
 
-**4. La verità di Foucault**
+## 4. La verità di Foucault
 
 Se devo essere sincero sino in fondo, rimpiango di non avere inserito nel _[Lessico dickiano](http://www.agenziax.it/imgProdotti/4D.pdf)_ della nostra enciclopedia due voci che invece adesso inserirei senza esitazione: “soggetto” e “verità”. Anche questa riflessione mi è stata ispirata da una osservazione, folgorante, letta nel libro di Rossi: «_Nella narrativa di Dick, la verità non è uno stato di cose, non è qualcosa di stabile e fissato una volta per tutte: la verità è un evento_». Quando l'ho letta, sono sobbalzato sulla sedia. Non so se Rossi sia consapevole di avere usato, alla lettera, la definizione della verità che Foucault ha dato più volte nei suoi ultimi corsi al Collège de France, quelli sul governo di sé e sul coraggio della verità.
 
