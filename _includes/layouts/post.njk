@@ -2,16 +2,14 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+{# 
 <h1>{{ title }}</h1>
-
 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
 {%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
-
 {{ content | safe }}
-
 {%- if collections.posts %}
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
@@ -23,3 +21,47 @@ templateClass: tmpl-post
 </ul>
 {%- endif %}
 {%- endif %}
+#}
+<section class="py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="col-lg-6 justify-content-center d-flex flex-column">
+            <div class="card rounded-3">
+              <div class="d-block blur-shadow-image">
+                <img src="{{image}}" alt="img-blur-shadow-blog-2" class="img-fluid shadow rounded-3">
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 justify-content-center d-flex flex-column ps-lg-5 pt-lg-0 pt-3">
+            <h3> <a href="#" class="text-darker">{{title}}</a> </h3>
+            <h6 class="category  mt-3 " style="font-size: 120%; color: #444444" >{{subtitle}}</h6>
+
+            <p class="author">
+              di  <a href="javascript:;" class="ms-1"><span class="font-weight-bold text-info">{{author}}</span>
+              </a>, <time datetime="{{ page.date | htmlDateString }}"> &nbsp;  {{ page.date | readableDate }} </time> 
+
+
+              </p>
+            <p style="color: darkgray; font-size: 120%" >
+             {{headline}} 
+             {#
+             <a href="javascript:;" class="text-darker icon-move-right text-sm">Read More
+                <i class="fas fa-arrow-right text-xs ms-1"></i>
+              </a>
+              #}
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-8 ms-auto me-auto">
+          <p class="text-dark">
+          {{ content | safe }}
+          </p>
+        </div>
+      </div>
+      </div>
+  </div>
+</section>

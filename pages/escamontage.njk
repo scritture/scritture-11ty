@@ -1,0 +1,17 @@
+---
+layout: layouts/home.njk
+permalink: /escamontage/
+eleventyNavigation:
+  key: escamontage editoria
+  order: 5
+---
+{% set maxPosts = collections.escamontage.length | min(3) %}
+
+<h3>Gli ultimi  {% if maxPosts == 1 %}escamontage{% else %}{{ maxPosts }} articoli della  rivista{% endif %}</h3>
+
+{% set postslist = collections.escamontage | head(-3) %}
+{% set postslistCounter = collections.escamontage | length %}
+{% include "postslist.njk" %}
+
+<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+

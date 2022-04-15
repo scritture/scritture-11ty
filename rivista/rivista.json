@@ -1,0 +1,7 @@
+
+{
+  "tags": [
+    "rivista"
+  ],
+  "layout": "layouts/post.njk"
+}

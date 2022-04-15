@@ -1,0 +1,20 @@
+---
+layout: layouts/home.njk
+permalink: /rivista/
+eleventyNavigation:
+  key: rivista
+  order: 1
+---
+
+{% set maxPosts = collections.rivista.length | min(5) %}
+<h3>Gli ultimi  {% if maxPosts == 1 %}rivista{% else %}{{ maxPosts }} articoli della  rivista{% endif %}</h3>
+
+{% set postslist = collections.rivista | head(-5) %}
+{% set postslistCounter = collections.rivista | length %}
+{% include "list.njk" %}
+
+<h2> Tutti gli articoli </h2>
+
+{% set postslist = collections.rivista %}
+{% include "postslist.njk" %}
+

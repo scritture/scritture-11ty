@@ -1,0 +1,10 @@
+---
+layout: layouts/home.njk
+permalink: /diario/
+eleventyNavigation:
+  key: diario
+  order: 2
+---
+{% set postslist = collections['Claudio Comandini'] %}
+{% include "list.njk" %}
+
