@@ -2,7 +2,51 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+
+<div class="container">
+
+  <div class="p-2 p-md-5 mb-4 text-white rounded bg-secondary">
+    <div class="col-md-12 px-0">
+      <h1 class="display-4 fst-italic">{{ title }}</h1>
+      <p class="author">
+     <a href="/tags/{{ author  | slugify }}" class="ms-1" ><span class="font-weight-bold text-dark"> di {{author}},</span></a> 
+      <time datetime="{{ page.date | htmlDateString }}"  class="font-weight-bold text-dark" > &nbsp;  {{ page.date | readableDate }} </time> 
+      </p>
+    </div>
+   </div>
+
+    <div class="row">
+     <p>
+        {%- for tag in tags | filterTagList -%}
+        {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+        <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+        {%- endfor %}
+      </p>
+    </div>
+    <div class="row">
+       <div class="clearfix p-5 p-md-6 mb-4 ">
+           <img src="{{image}}" class=" card rounded-8 img-fluid col-md-6 float-md-end mb-4 ms-md-4 " alt="...">
+         <p class="lead">{{subtitle}}</p>
+         <p >{{ content | safe }}</p>
+        </div>
+      </div>
+    </div>
+</div>
+
 {# 
+
+{%- if collections.posts %}
+{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- if nextPost or previousPost %}
+<hr>
+<ul>
+  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+</ul>
+{%- endif %}
+{%- endif %}
+
 <h1>{{ title }}</h1>
 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
 {%- for tag in tags | filterTagList -%}
@@ -21,49 +65,6 @@ templateClass: tmpl-post
 </ul>
 {%- endif %}
 {%- endif %}
+
 #}
 
-<section class="py-5">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="row">
-          <div class="col-lg-6 justify-content-center d-flex flex-column">
-            <div class="card rounded-3">
-              <div class="d-block blur-shadow-image">
-                <img src="{{image}}" alt="img-blur-shadow-blog-2" class="img-fluid shadow rounded-3">
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 justify-content-center d-flex flex-column ps-lg-5 pt-lg-0 pt-3">
-            <h3> <a href="#" class="text-primary">{{title}}</a> </h3>
-            <h6 class="category  mt-3 text-secondary" style="font-size: 120%; " >{{subtitle}}</h6>
-
-            <p class="author">
-              di  
-              <a href="/tags/{{ author  | slugify }}" class="ms-1" ><span class="font-weight-bold text-secondary">{{author}}</span></a> ,
-              <time datetime="{{ page.date | htmlDateString }}"> &nbsp;  {{ page.date | readableDate }} </time> 
-
-
-              </p>
-            <p style="color: darkgray; font-size: 120%" >
-             {{headline}} 
-             {#
-             <a href="javascript:;" class="text-darker icon-move-right text-sm">Read More
-                <i class="fas fa-arrow-right text-xs ms-1"></i>
-              </a>
-              #}
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-8 ms-auto me-auto">
-          <p class="text-dark">
-          {{ content | safe }}
-          </p>
-        </div>
-      </div>
-      </div>
-  </div>
-</section>

@@ -15,13 +15,12 @@ tags:
 - Andrea Appetito
 - narrativa
 - Scritture
-language: en
 ---
   Ciò che li accomuna è il loro rapporto con Tomàs, un ragazzo scomparso all'improvviso proprio dopo l'apparizione della nave. 
   Tomàs è il tassello mancante di una trama che vede coinvolti il passato dell'autocrate e l'organizzazione dei suoi oppositori. Sullo sfondo, una storia d'amore perduto dai risvolti inquietanti.   
   Il romanzo Tomàs è l'ultimo libro di _Andrea Appetito_ (Roma, 1971), che ha pubblicato le poesie di _Cluster Bomb (2002)_ ed è presente sulle antologie _Allupa allupa (2006)_ e _Sorridi: siamo a Roma (2016)_; con Gianluca Solla ha scritto _Senza nome_, saggio breve tradotto in spagnolo e pubblicato nel libro collettivo  _El impasse de lo político (2011)_. Ha poi realizzato testi teatrali, sceneggiature, cortometraggi e docufilm.  
 
-  _Di Tomàs_ hanno già apprezzato la «capacità di tenere insieme, di raffrontare arm# onicamente, il piccolo e il grande, l'universale e il particolare» ( [Laura Renzi, il manifesto, 30.082017](https://ilmanifesto.it/tomas-luomo-dalle-mille-voci/) ), aspetto che si rafforza laddove la storia narrata è «carica di un'urgenza morale che la accosta e la fa dialogare con la Storia», realizzata _attraverso minimi scarti e una scrittura_«semplice e scarna» ([_Edoardo Zambelli Nazione Indiana_18.04.2017_](https://www.nazioneindiana.com/2017/04/18/tomas/) eppure «incalzante e coinvolgente, molto cadenzata» (_Antonio Veneziani, Le monde diplomatique, marzo 2017_).
+  _Di Tomàs_ hanno già apprezzato la «capacità di tenere insieme, di raffrontare armonicamente, il piccolo e il grande, l'universale e il particolare» ( [Laura Renzi, il manifesto, 30.082017](https://ilmanifesto.it/tomas-luomo-dalle-mille-voci/) ), aspetto che si rafforza laddove la storia narrata è «carica di un'urgenza morale che la accosta e la fa dialogare con la Storia», realizzata _attraverso minimi scarti e una scrittura_«semplice e scarna» ([_Edoardo Zambelli Nazione Indiana_18.04.2017_](https://www.nazioneindiana.com/2017/04/18/tomas/) eppure «incalzante e coinvolgente, molto cadenzata» (_Antonio Veneziani, Le monde diplomatique, marzo 2017_).
   
 *Ne presentiamo qui alcuni frammenti.*
 

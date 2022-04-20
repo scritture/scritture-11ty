@@ -8,24 +8,32 @@
     <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/apple-icon.png">
     <link rel="icon" type="/image/png" href="/assets/img/favicon.png">
 
-<!--     Fonts and icons     -->
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+<!--     Fonts and icons   
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />   -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
 
 <!-- Nucleo Icons -->
-<link href="/assets/css/nucleo-icons.css" rel="stylesheet" />
-<link href="/assets/css/nucleo-svg.css" rel="stylesheet" />
+<link href="/css/nucleo-icons.css" rel="stylesheet" />
+<link href="/css/nucleo-svg.css" rel="stylesheet" />
 
 <!-- Font Awesome Icons -->
 <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-<link href="/assets/css/nucleo-svg.css" rel="stylesheet" />
+<link href="/css/nucleo-svg.css" rel="stylesheet" />
 
 <!-- CSS Files -->
-<link id="pagestyle" href="/assets/css/soft-design-system.css?v=1.0.7" rel="stylesheet" />
 
 
-    <link rel="stylesheet" href="/css/index.css">
+
+
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
     <link rel="stylesheet" href="/css/prism-diff.css">
+    <link rel="stylesheet" href="/css/index.css">
 
 
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Scritture">
@@ -33,120 +41,46 @@
 
  </head>
   <body>
-  <header>
-         <!-- Navbar Dark -->
-
-<nav
-  class="navbar navbar-expand-lg navbar-dark bg-gradient-dark z-index-3 py-3">
-  <div class="container">
-    <a class="navbar-brand text-white" href="/" rel="tooltip" title="Scritture" data-placement="bottom" target="_blank">
-      Scritture
-    </a>
-  
-    <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon mt-2">
-        <span class="navbar-toggler-bar bar1"></span>
-        <span class="navbar-toggler-bar bar2"></span>
-        <span class="navbar-toggler-bar bar3"></span>
-      </span>
-    </button>
-    <div class="collapse navbar-collapse w-100 pt-3 pb-2 py-lg-0" id="navigation">
-      <ul class="navbar-nav navbar-nav-hover mx-auto">
-        <li class="nav-item dropdown dropdown-hover mx-2 ">
-          <a href="/rivista/" 
-            class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" 
-            role="button">
-            rivista
-          </a>
-        </li>
-        <li class="nav-item dropdown dropdown-hover mx-2 ">
-          <a href="/diario/" 
-            class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" 
-            role="button">
-            diario
-          </a>
-        </li>
-        <li class="nav-item dropdown dropdown-hover mx-2 ">
-          <a href="/vinolibreria/" 
-            class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" 
-            role="button">
-            grand tour vinolibreria
-          </a>
-        </li>
-        <li class="nav-item dropdown dropdown-hover mx-2 ">
-          <a href="/escamontage/" 
-            class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" 
-            role="button">
-            escamontage editoria
-          </a>
-        </li>
-        <li class="nav-item dropdown dropdown-hover mx-2 ">
-          <a href="/archivio/" 
-            class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" 
-            role="button">
-            archivio
-          </a>
-        </li>
-        <li class="nav-item dropdown dropdown-hover mx-2 ">
-          <a href="/abaut/" 
-            class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" 
-            role="button">
-            contatti
-          </a>
-        </li>
-
-        <li class="nav-item dropdown dropdown-hover mx-2">
-          <a href="/demo" class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button">
-            demo
-          </a>
-        </li>
-
+    <div class="container">
+      <header>
+           <h1 class="home"><a href="/">Scritture</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/rivista/">rivista</a></li>
+        <li class="nav-item"><a href="/diario/">diario</a></li>
+        <li class="nav-item"><a href="/vinolibreria/">grand tour vinolibreria</a></li>
+        <li class="nav-item"><a href="/escamontage/">escamontage editoria</a></li>
+        <li class="nav-item"><a href="/archivio/">archivio</a></li>
+        <li class="nav-item"><a href="/abaut/">contatti</a></li>
       </ul>
+
+
+
+      </header>
     </div>
-  </div>
-</nav>
-<!-- End Navbar -->
+    <div class="container">
+      <main class="tmpl-post">
+        
+<div class="container">
 
-  </header>
+  <div class="p-2 p-md-5 mb-4 text-white rounded bg-secondary">
+    <div class="col-md-12 px-0">
+      <h1 class="display-4 fst-italic">Dentro le foibe</h1>
+      <p class="author">
+     <a href="/tags/claudio-comandini" class="ms-1" ><span class="font-weight-bold text-dark"> di Claudio Comandini,</span></a> 
+      <time datetime="2013-02-09"  class="font-weight-bold text-dark" > &nbsp;  9 feb 2013 </time> 
+      </p>
+    </div>
+   </div>
 
-    <main class="tmpl-post">
-
-      
-
-<section class="py-5">
-  <div class="container">
     <div class="row">
-      <div class="col-lg-12">
-        <div class="row">
-          <div class="col-lg-6 justify-content-center d-flex flex-column">
-            <div class="card rounded-3">
-              <div class="d-block blur-shadow-image">
-                <img src="/images/2016/07/il-cammino-inverso-della-pace-678x381.jpg" alt="img-blur-shadow-blog-2" class="img-fluid shadow rounded-3">
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 justify-content-center d-flex flex-column ps-lg-5 pt-lg-0 pt-3">
-            <h3> <a href="#" class="text-primary">Dentro le foibe</a> </h3>
-            <h6 class="category  mt-3 text-secondary" style="font-size: 120%; " ></h6>
-
-            <p class="author">
-              di  
-              <a href="/tags/claudio-comandini" class="ms-1" ><span class="font-weight-bold text-secondary">Claudio Comandini</span></a> ,
-              <time datetime="2013-02-09"> &nbsp;  9 feb 2013 </time> 
-
-
-              </p>
-            <p style="color: darkgray; font-size: 120%" >
-              
-             
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-8 ms-auto me-auto">
-          <p class="text-dark">
-          <p><em>Esordio e parafrasi. Il Carso di Scipio Slataper. L'indagine di Ara e Magris. Trieste cosmopolita per sottrazione. Morfologia psichica della foiba. Storia di un confine tra disgregazione dell'impero e terre irredente. Ghiglianovich: la tensione dalmata all'Italia. Trumbić: il croato che pensava in italiano. Puecher e il Movimento operaio triestino. L'irredentismo da Oberdan a Timeus. Fiume con D'Annunzio e senza. Il provincialismo letterario di Ziliotto e la contemporaneità di Saba e Joyce. Svevo: la città come giocattolo sentimentale. Italo Sauro: italianità dei confini. Galleria culturale di una Trieste atipica da Stuparich a Balzen. Henrik Tuma: il retroterra sloveno di Trieste. Giorgio Alberto Chiurco e Giuseppe Cobolli Gigli e il fascismo. La Foiba di Pisino e Giulio Verne. Il confine orientale dall'invasione della Jugoslavia all'annessione al Reich. Nazionalisti e comunisti nelle resistenza jugoslavia. Mario Riva e Carlo Ravnich: ufficiali e partigiani . Insurrezioni in Istria e la presa di Trieste. Le ondate di violenza del 1943 e 1945. Il fratello di Pasolini e l'eccidio di Porzûs. L'esodo dei profughi. Eros Sequi: la cultura italiana in Jugoslavia. Sergio Endrigo e la sottana di Trieste. Guido Crainz: dolore ed esilio nelle regioni europee. La poesia di Dubravko Horvatić. La costituzione della letteratura croata e la nazionalizzazione degli scrittori. Giacomo Scotti: la poesia, il comunismo e la Jugoslavia. La mancata missione di De Gasperi. Il trattato di Osimo. Le due non-appartenenze di Tomizza. Nuovi equilibri dell'area. Il giorno del ricordo e le amnesie di destra, di sinistra e d'altri paesi. Incontro con Trieste. Storie dei luoghi. Foibe e Basovizza. De Castro e il contemporaneamente. Commiato dalle foglie.</em></p>
+     <p><a href="/tags/rivista/" class="post-tag">rivista</a><a href="/tags/8-settembre/" class="post-tag">8 settembre</a><a href="/tags/angelo-ara/" class="post-tag">Angelo Ara</a><a href="/tags/ante-pavelic/" class="post-tag">Ante Pavelić</a><a href="/tags/ante-trumbic/" class="post-tag">Ante Trumbić</a><a href="/tags/arsen-dedic/" class="post-tag">Arsen Dedić</a><a href="/tags/balcani/" class="post-tag">Balcani</a><a href="/tags/basovizza/" class="post-tag">Basovizza</a><a href="/tags/bobi-balzen/" class="post-tag">Bobi Balzen</a><a href="/tags/cetnici/" class="post-tag">Cetnici</a><a href="/tags/claudio-comandini/" class="post-tag">Claudio Comandini</a><a href="/tags/claudio-magris/" class="post-tag">Claudio Magris</a><a href="/tags/cristoforo-ivanovich/" class="post-tag">Cristoforo Ivanovich</a><a href="/tags/d&amp;#39;annunzio/" class="post-tag">D&#39;Annunzio</a><a href="/tags/dalmazia/" class="post-tag">Dalmazia</a><a href="/tags/de-gasperi/" class="post-tag">De Gasperi</a><a href="/tags/diego-de-castro/" class="post-tag">Diego de Castro</a><a href="/tags/dubravko-horvatic/" class="post-tag">Dubravko Horvatić</a><a href="/tags/edmondo-puecher/" class="post-tag">Edmondo Puecher</a><a href="/tags/edoardo-weiss/" class="post-tag">Edoardo Weiss</a><a href="/tags/edvard-kardelj/" class="post-tag">Edvard Kardelj</a><a href="/tags/eros-sequi/" class="post-tag">Eros Sequi</a><a href="/tags/fiume/" class="post-tag">Fiume</a><a href="/tags/fulvio-tomizza/" class="post-tag">Fulvio Tomizza</a><a href="/tags/giacomo-scotti/" class="post-tag">Giacomo Scotti</a><a href="/tags/giani-stuparich/" class="post-tag">Giani Stuparich</a><a href="/tags/giorgio-alberto-chiurco/" class="post-tag">Giorgio Alberto Chiurco</a><a href="/tags/giorgio-fano/" class="post-tag">Giorgio Fano</a><a href="/tags/giovanni-bolizza/" class="post-tag">Giovanni Bolizza</a><a href="/tags/giovanni-bona-boliris/" class="post-tag">Giovanni Bona-Boliris</a><a href="/tags/giulio-verne/" class="post-tag">Giulio Verne</a><a href="/tags/giuseppe-cobolli-gigli/" class="post-tag">Giuseppe Cobolli Gigli</a><a href="/tags/grande-guerra/" class="post-tag">Grande Guerra</a><a href="/tags/guido-crainz/" class="post-tag">Guido Crainz</a><a href="/tags/henrik-tuma/" class="post-tag">Henrik Tuma</a><a href="/tags/ii-guerra-mondiale/" class="post-tag">II Guerra Mondiale</a><a href="/tags/irredentismo/" class="post-tag">irredentismo</a><a href="/tags/istria/" class="post-tag">Istria</a><a href="/tags/italo-svevo/" class="post-tag">Italo Svevo</a><a href="/tags/joze-pirjevec/" class="post-tag">Joze Pirjevec</a><a href="/tags/ludovico-pasquali-pascalis/" class="post-tag">Ludovico Pasquali-Pascalis</a><a href="/tags/mario-toffanin/" class="post-tag">Mario Toffanin</a><a href="/tags/mussolini/" class="post-tag">Mussolini</a><a href="/tags/osimo/" class="post-tag">Osimo</a><a href="/tags/pasolini/" class="post-tag">Pasolini</a><a href="/tags/pola/" class="post-tag">Pola</a><a href="/tags/porzus/" class="post-tag">Porzûs</a><a href="/tags/risiera-di-s.-sabba/" class="post-tag">Risiera di S. Sabba</a><a href="/tags/roberto-ghiglianovich/" class="post-tag">Roberto Ghiglianovich</a><a href="/tags/scipio-slataper/" class="post-tag">Scipio Slataper</a><a href="/tags/sergio-endrigo/" class="post-tag">Sergio Endrigo</a><a href="/tags/silvio-benco/" class="post-tag">Silvio Benco</a><a href="/tags/srecko-kosovel/" class="post-tag">Srečko Kosovel</a><a href="/tags/stevka-smitran/" class="post-tag">Stevka Šmitran</a><a href="/tags/trieste/" class="post-tag">Trieste</a><a href="/tags/ustascia/" class="post-tag">Ustàscia</a><a href="/tags/vincenzo-buiovich/" class="post-tag">Vincenzo Buiovich</a><a href="/tags/vito-timmel/" class="post-tag">Vito Timmel</a>
+      </p>
+    </div>
+    <div class="row">
+       <div class="clearfix p-5 p-md-6 mb-4 ">
+           <img src="/images/2016/07/il-cammino-inverso-della-pace-678x381.jpg" class=" card rounded-8 img-fluid col-md-6 float-md-end mb-4 ms-md-4 " alt="...">
+         <p class="lead"></p>
+         <p ><p><em>Esordio e parafrasi. Il Carso di Scipio Slataper. L'indagine di Ara e Magris. Trieste cosmopolita per sottrazione. Morfologia psichica della foiba. Storia di un confine tra disgregazione dell'impero e terre irredente. Ghiglianovich: la tensione dalmata all'Italia. Trumbić: il croato che pensava in italiano. Puecher e il Movimento operaio triestino. L'irredentismo da Oberdan a Timeus. Fiume con D'Annunzio e senza. Il provincialismo letterario di Ziliotto e la contemporaneità di Saba e Joyce. Svevo: la città come giocattolo sentimentale. Italo Sauro: italianità dei confini. Galleria culturale di una Trieste atipica da Stuparich a Balzen. Henrik Tuma: il retroterra sloveno di Trieste. Giorgio Alberto Chiurco e Giuseppe Cobolli Gigli e il fascismo. La Foiba di Pisino e Giulio Verne. Il confine orientale dall'invasione della Jugoslavia all'annessione al Reich. Nazionalisti e comunisti nelle resistenza jugoslavia. Mario Riva e Carlo Ravnich: ufficiali e partigiani . Insurrezioni in Istria e la presa di Trieste. Le ondate di violenza del 1943 e 1945. Il fratello di Pasolini e l'eccidio di Porzûs. L'esodo dei profughi. Eros Sequi: la cultura italiana in Jugoslavia. Sergio Endrigo e la sottana di Trieste. Guido Crainz: dolore ed esilio nelle regioni europee. La poesia di Dubravko Horvatić. La costituzione della letteratura croata e la nazionalizzazione degli scrittori. Giacomo Scotti: la poesia, il comunismo e la Jugoslavia. La mancata missione di De Gasperi. Il trattato di Osimo. Le due non-appartenenze di Tomizza. Nuovi equilibri dell'area. Il giorno del ricordo e le amnesie di destra, di sinistra e d'altri paesi. Incontro con Trieste. Storie dei luoghi. Foibe e Basovizza. De Castro e il contemporaneamente. Commiato dalle foglie.</em></p>
 <p><strong>1. Esordio</strong></p>
 <p>Vorrei dirvi che siamo tutti uguali, vorrei dirvi che non è mai colpa di nessuno per le violenze di questo mondo, vorrei dirvi che i confini non esistono e non dovrebbero nemmeno essere pensati. Ma tutto questo non è vero. So che molti tra voi, alcuni dei migliori, impostano le loro battaglie, alcuni addirittura la propria stessa esistenza, sul riconoscimento dei diritti per chi è da loro stessi diverso: eppure, è diventato troppo facile usare queste parole, e occorre farlo con particolare scaltrezza e sagacia, e così evitare che si propaghino inganni e soprusi proprio laddove si cerca di evitarli. Altri, coloro che dalle battaglie per l'identità di questo o quello si sentono legittimati a spandere ogni veleno, comprendano, per una volta almeno, quanto loro stessi siano in fondo nient'altro che bastardi, accettando tale eventualità come meno dannosa di quella di fingere e mentire.</p>
 <p>Con le stesse due parole da me usate per quest'incipit, nel 1911 il ventitreenne Scipio Slataper dava inizio al particolare intreccio di riflessioni autobiografiche e territoriali contenute ne <em>Il mio Carso</em>. Il libro testimonia una diversità tanto incomprensibile quanto effettiva, e anche fortemente desiderata, iniziando a dar voce ai peculiari contrasti della cultura triestina, nella quale le componenti italiane, tedesche e slave si incontravano senza fondersi. Una cultura la cui essenza, come segnalano Angelo Ara e Claudio Magris nel fondamentale Trieste. <em>Un'identità di frontiera</em> (1987), ha una realtà storico-sociale definibile soltanto per sottrazione, caratterizzata da un'estraneità radicale. Un'immagine di quest'estraneità la possono fornire anche le numerose grotte naturali presenti sull'altopiano carsico, formate dalla disgregazione delle rocce calacaree, delle quali quelle verticali sono chiamate <em>foibe</em>.</p>
@@ -196,299 +130,22 @@
 <p>•</p>
 <p><em>Prima pubblicazione: &quot;Dentro le foibe&quot;, «Controluce» a.XV n.3 marzo 2005. Rivisto e ampliato.</em>
 <em>Fotografia: Claudio Comandini, &quot;Il cammino inverso della pace&quot; – Trieste - Risiere di San Sabba, febbraio 2005.</em></p>
-
-          </p>
-        </div>
-      </div>
-      </div>
-  </div>
-</section>
-
-      <p> collegamento a questa pagina <a href="/rivista/2013-02-09-dentro-le-foibe/">/rivista/2013-02-09-dentro-le-foibe/</a></p>
-    </main>
-
-    <footer>
-    <div class="py-lg-5 py-0">
-<div class="container">
-  <div class="row">
-<div class="col-lg-6">
-<h4 class="mb-1">Thank you for your support!</h4>
-<p class="lead mb-0">Delivering the best products</p>
-</div>
-<div class="col-lg-6 mt-lg-0 mt-4 d-lg-flex align-items-center">
-<a href="javascript:;" class="btn btn-twitter mb-lg-0 mb-2 me-2">
-<i class="fab fa-twitter me-1"></i> Twitter
-</a>
-<a href="javascript:;" class="btn btn-facebook mb-lg-0 mb-2 me-2">
-<i class="fab fa-facebook-square me-1"></i> Facebook
-</a>
-  <a href="javascript:;" class="btn btn-tumblr mb-lg-0 mb-2 me-2">
-    <i class="fab fa-tumblr me-1"></i> Tumblr
-  </a>
-  <a href="javascript:;" class="btn btn-dribbble mb-lg-0 mb-2">
-    <i class="fab fa-dribbble me-1"></i> Dribbble
-  </a>
-</div>
-</div>
-</div>
-</div>
-
-
-<!-- ---- START FOOTER 2 dark w/ bg image 5 cols & subscribe area & social---- -->
-<footer class="footer py-7 position-relative bg-gradient-dark overflow-hidden">
-  <div class="position-absolute w-100 z-inde-1 top-0 mt-n3">
-    <svg width="100%" viewBox="0 -2 1920 157" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <title>wave-down</title>
-        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g fill="#FFFFFF" fill-rule="nonzero">
-                <g id="wave-down">
-                    <path d="M0,60.8320331 C299.333333,115.127115 618.333333,111.165365 959,47.8320321 C1299.66667,-15.5013009 1620.66667,-15.2062179 1920,47.8320331 L1920,156.389409 L0,156.389409 L0,60.8320331 Z" id="Path-Copy-2" transform="translate(960.000000, 78.416017) rotate(180.000000) translate(-960.000000, -78.416017) "></path>
-                </g>
-            </g>
-        </g>
-    </svg>
-  </div>
-  <div class="container position-relative mt-8">
-    <div class="row ">
-      <div class="col-lg-2 col-md-2 col-4">
-        <h6 class="text-white text-sm">Company</h6>
-        <ul class="flex-column ms-n3 nav">
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Marketing
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Analytics
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Commerce
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Insights
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-lg-2 col-md-2 col-4">
-        <h6 class="text-white text-sm">Support</h6>
-        <ul class="flex-column ms-n3 nav">
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Pricing
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Docs
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Guides
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              API Suport
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-lg-2 col-md-2 col-4">
-        <h6 class="text-white text-sm">Pages</h6>
-        <ul class="flex-column ms-n3 nav">
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="/presentation" target="_blank">
-              About
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="/blog" target="_blank">
-              Blog
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Jobs
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Press
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="/affiliates/new" target="_blank">
-              Affiliates
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-lg-2 col-md-2 col-4">
-        <h6 class="text-white text-sm">Legal</h6>
-        <ul class="flex-column ms-n3 nav">
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Claim
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Privacy
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-white opacity-8" href="" target="_blank">
-              Terms
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6 col-8 ms-md-auto">
-        <h6 class="text-white text-md-end text-sm mb-0">Language & Currency</h6>
-        <ul class="nav flex-column">
-          <li class="nav-item mt-3">
-            <select class="form-control" name="language-button" id="language-button" placeholder="Language">
-              <option value="Choice 1" selected>English</option>
-              <option value="Choice 2">Chinese</option>
-              <option value="Choice 3">French</option>
-              <option value="Choice 4">Romanian</option>
-            </select>
-          </li>
-          <li class="nav-item mt-3">
-            <select class="form-control" name="currency-button" id="currency-button" placeholder="Currency">
-              <option value="Choice 1" selected>USD</option>
-              <option value="Choice 2">EUR</option>
-              <option value="Choice 3">JPY</option>
-              <option value="Choice 4">GBP</option>
-              <option value="Choice 5">CAD</option>
-              <option value="Choice 6">RON</option>
-            </select>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <hr class="horizontal light mb-4 mt-lg-4">
-    <div class="row">
-      <div class="col-lg-6 text-start">
-        <h6 class="text-white">Subscribe to our newsletters</h6>
-        <p class="text-white opacity-8 mb-lg-0 mb-3">The latest news, articles and resources sent to your inbox weekely.</p>
-      </div>
-      <div class="col-lg-4 ms-auto text-end my-auto">
-        <div class="row">
-          <div class="col-md-8 col-7">
-            <div class="form-group mb-0">
-              <div class="input-group input-group-alternative">
-                <input class="form-control" placeholder="E-mail" type="email">
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 col-5 text-start ps-0">
-            <button type="button" class="btn bg-gradient-info mb-0 h-100">Subscribe</button>
-          </div>
+</p>
         </div>
       </div>
     </div>
-    <hr class="horizontal light my-4">
-      <div class="row">
-        <div class="col-lg-6 col-md-6 my-auto">
-          <p class="text-white mb-0 opacity-8">
-            Copyright © <script>document.write(new Date().getFullYear())</script> Soft by Creative Tim.
-          </p>
-        </div>
-        <div class="col-lg-4 col-md-6  ms-auto text-end">
-          <button type="button" class="btn btn-icon-only btn-link text-white mb-0 opacity-6">
-            <i class="fab fa-facebook text-lg"></i>
-          </button>
-          <button type="button" class="btn btn-icon-only btn-link text-white mb-0 opacity-6">
-            <i class="fab fa-twitter text-lg"></i>
-          </button>
-          <button type="button" class="btn btn-icon-only btn-link text-white mb-0 opacity-6">
-            <i class="fab fa-dribbble text-lg"></i>
-          </button>
-          <button type="button" class="btn btn-icon-only btn-link text-white mb-0 opacity-6">
-            <i class="fab fa-github text-lg"></i>
-          </button>
-        </div>
-      </div>
-  </div>
-</footer>
-<!-- ---- END FOOTER 2 dark w/ bg image 5 cols & subscribe area & social---- -->
+</div>
 
 
-    </footer>
 
+
+        <p> collegamento a questa pagina <a href="/rivista/2013-02-09-dentro-le-foibe/">/rivista/2013-02-09-dentro-le-foibe/</a></p>
+      </main>
+      <footer>
+        
+      </footer>
+    </div>
     <!-- Current page:   /rivista/2013-02-09-dentro-le-foibe/-->
-    <!--   Core JS Files   -->
-<script src="/assets/js/core/popper.min.js" type="text/javascript"></script>
-<script src="/assets/js/core/bootstrap.min.js" type="text/javascript"></script>
-<script src="/assets/js/plugins/perfect-scrollbar.min.js"></script>
-
-<!--  Plugin for TypedJS, full documentation here: https://github.com/inorganik/CountUp.js -->
-<script src="/assets/js/plugins/countup.min.js"></script>
-<script src="/assets/js/plugins/choices.min.js"></script>
-<script src="/assets/js/plugins/prism.min.js"></script>
-<script src="/assets/js/plugins/highlight.min.js"></script>
-
-<!--  Plugin for Parallax, full documentation here: https://github.com/dixonandmoe/rellax -->
-<script src="/assets/js/plugins/rellax.min.js"></script>
-<!--  Plugin for TiltJS, full documentation here: https://gijsroge.github.io/tilt.js/ -->
-<script src="/assets/js/plugins/tilt.min.js"></script>
-<!--  Plugin for Selectpicker - ChoicesJS, full documentation here: https://github.com/jshjohnson/Choices -->
-<script src="/assets/js/plugins/choices.min.js"></script>
-
-
-<!--  Plugin for Parallax, full documentation here: https://github.com/wagerfield/parallax  -->
-<script src="/assets/js/plugins/parallax.min.js"></script>
-<!-- Control Center for Soft UI Kit: parallax effects, scripts for the example pages etc -->
-<!--  Google Maps Plugin    -->
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTTfWur0PDbZWPr7Pmq8K3jiDp0_xUziI"></script>
-<script src="/assets/js/soft-design-system.min.js?v=1.0.7" type="text/javascript"></script>
-
-
-<script type="text/javascript">
-
-  if (document.getElementById('state1')) {
-    const countUp = new CountUp('state1', document.getElementById("state1").getAttribute("countTo"));
-    if (!countUp.error) {
-      countUp.start();
-    } else {
-      console.error(countUp.error);
-    }
-  }
-  if (document.getElementById('state2')) {
-    const countUp1 = new CountUp('state2', document.getElementById("state2").getAttribute("countTo"));
-    if (!countUp1.error) {
-      countUp1.start();
-    } else {
-      console.error(countUp1.error);
-    }
-  }
-  if (document.getElementById('state3')) {
-    const countUp2 = new CountUp('state3', document.getElementById("state3").getAttribute("countTo"));
-    if (!countUp2.error) {
-      countUp2.start();
-    } else {
-      console.error(countUp2.error);
-    };
-  }
-</script>
+    
   </body>
 </html>
