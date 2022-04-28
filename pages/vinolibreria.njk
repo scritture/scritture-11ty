@@ -1,0 +1,17 @@
+---
+layout: layouts/home.njk
+permalink: /vinolibreria/
+eleventyNavigation:
+  key: grand tour vinolibreria
+  order: 4
+---
+{% set maxPosts = collections.vinolibreria.length | min(3) %}
+
+<h3>Le ultime pagine  {% if maxPosts == 1 %}vinolibreria{% else %}{{ maxPosts }} della vinolibreria{% endif %}</h3>
+
+{% set postslist = collections.vinolibreria | head(-3) %}
+{% set postslistCounter = collections.vinolibreria | length %}
+{% include "postslist.njk" %}
+
+<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+

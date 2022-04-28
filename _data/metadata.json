@@ -1,0 +1,27 @@
+{
+  "title": "Scritture",
+  "url": "/",
+  "language": "it",
+  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "email": "info@envy.roma.it",
+  "tel": "069412345678",
+  "twitter": "https://fb.com/templatemo",
+  "facebook": "https://www.facebook.com/search/top?q=envy%20camicie",
+  "instagram": "https://www.instagram.com/matteo.pedani/",
+  "linkedin": "https://www.linkedin.com/in/matteopedani/",
+  "feed": {
+    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "/feed/feed.json"
+  },
+  "author": {
+    "name": "Claudio Comandini",
+    "email": "youremailaddress@example.com",
+    "url": "/about-me/"
+  }
+}

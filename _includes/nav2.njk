@@ -1,0 +1,22 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white">
+  <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav">
+      {%- for entry in collections.all | eleventyNavigation %}
+        <li class="nav-item">
+          <a href="{{ entry.url | url }}" class="nav-link {% if entry.url == page.url %} active"  aria-current="page{% endif %}">{{ entry.title }}</a></li>
+      {%- endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
+{#   logo grafico piccolo 
+    <a class="navbar-brand" href="#">
+      <img src="/images/logo.jpg" alt="" 
+       width="30" height="24" class="d-inline-block align-text-top">
+      {{ metadata.title }}
+    </a>
+#}

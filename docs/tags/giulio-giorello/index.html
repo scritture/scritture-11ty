@@ -1,250 +1,145 @@
 <!doctype html>
-<html class="h-100" lang="en">
-
+<html lang="it">
   <head>
-      <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Combination of static site generator eleventy and CSS framework Bootstrap 5 into one solid boilerplate">
-  <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon.png">
-  <meta name="author" content="Claudio Comandini">
-  <meta name="generator" content="Pedani">
-  <meta name="HandheldFriendly" content="true"/>
-  <title>Tagged “Giulio Giorello”</title>
-  
-  <!-- soft-ui -->
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+    <title>Tagged “Giulio Giorello”</title>
+    <meta name="description" content="I am writing about my experiences as a naval navel-gazer.">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/apple-icon.png">
+    <link rel="icon" type="/image/png" href="/assets/img/favicon.png">
 
+<!--     Fonts and icons   
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />   -->
 
-<!-- CSS only -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
-<!-- JavaScript Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
 
-
-
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
-
-<!-- Icons -->
-<link href="../assets/css/nucleo-icons.css" rel="stylesheet" />
-<link href="../assets/css/nucleo-svg.css" rel="stylesheet" />
+<!-- Nucleo Icons -->
+<link href="/css/nucleo-icons.css" rel="stylesheet" />
+<link href="/css/nucleo-svg.css" rel="stylesheet" />
 
 <!-- Font Awesome Icons -->
 <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+<link href="/css/nucleo-svg.css" rel="stylesheet" />
 
 <!-- CSS Files -->
-<link id="pagestyle" href="../assets/css/soft-ui-dashboard.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/bootstrap.css">
 
-
-
-  
-  
-  <!-- end soft-ui -->
-  
-  
-  <link rel="stylesheet" href="/css/theme.min.css">
-
-
-  </head>
-
+ </head>
   <body>
-
-    <!--
-  <nav class="navbar navbar-expand-lg navbar-light pt-0">
-  <div class="container">
-    <a class="navbar-brand mb-0 py-4 px-3 pt-5 text-center text-white bg-primary" href="/">11straps</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-        <li class="nav-item me-1">
-          <a class="nav-link" aria-current="page" href="/">Home</a>
-        </li>
-
-        <li class="nav-item me-1">
-          <a class="nav-link" href="/default">Sample Page</a>
-        </li>
-
-        <li class="nav-item me-1">
-        <a class="nav-link" href="/blog">Sample Blog</a>
-        </li>
-
+    <div class="container">
+      <header>
+      <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white">
+  <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a href="/rivista/" class="nav-link ">rivista</a></li>
+        <li class="nav-item">
+          <a href="/diario/" class="nav-link ">diario</a></li>
+        <li class="nav-item">
+          <a href="/vinolibreria/" class="nav-link ">grand tour vinolibreria</a></li>
+        <li class="nav-item">
+          <a href="/escamontage/" class="nav-link ">escamontage editoria</a></li>
+        <li class="nav-item">
+          <a href="/archivio/" class="nav-link ">archivio</a></li>
+        <li class="nav-item">
+          <a href="/abaut/" class="nav-link ">contatti</a></li>
       </ul>
     </div>
   </div>
 </nav>
--->
+
+      </header>
+    </div>
+    <div class="container">
+      <main class="tmpl-home">
+        <h1>Tagged “Giulio Giorello”</h1>
 
 
-<!-- Navbar Light -->
-<nav
-  class="navbar navbar-expand-lg navbar-light bg-white z-index-3 py-3">
-  <div class="container">
-    <a class="navbar-brand" href="/" rel="tooltip" title="Una rivista di Claudio Comandini" data-placement="bottom" target="_blank">
-     Scritture
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" 
-    aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navigation">
-      <ul class="navbar-nav navbar-nav-hover ms-auto">
-        <div class="row">
-          <div class="col-auto m-auto">
-            <a class="cursor-pointer">
-              <i class="fa fa-cog fixed-plugin-button-nav"></i>
-            </a>
-          </div>
-          <div class="col-auto m-auto">
-            <div class="dropdown">
-              <a class="cursor-pointer" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-                <i class="fa fa-bell"></i>
+
+<div class="row">
+  <div class="container col-xxl-8 px-4 py-5">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+      <div class="col-10 col-sm-8 col-lg-6">
+        <a href="/rivista/2017-05-15-etica-ribelle-scienza-giorello-donghi/" >
+        <img src="/images/2017/05/Nicolaus_Copernicus_-_Heliocentric_Solar_System.jpg" class="d-block mx-lg-auto img-fluid" alt="/images/2017/05/Nicolaus_Copernicus_-_Heliocentric_Solar_System.jpg" width="700" height="500" loading="lazy">
+        </a>
+      </div>
+      <div class="col-lg-6">
+           <p>15 mag 2017</p>
+        <h1 class="display-5 fw-bold lh-1 mb-3">
+                       <a href="/rivista/2017-05-15-etica-ribelle-scienza-giorello-donghi/" >
+          Etica del ribelle. La scienza e la storia tra fratture e continuità
+          </a>
+          </h1>
+        <p>di Giulio Giorello - Pino Donghi</p>
+        <p class="lead"></p>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+          
+
+           <button type="button" class="btn btn-outline-secondary btn-lg px-4">
+             <a href="/rivista/2017-05-15-etica-ribelle-scienza-giorello-donghi/" > 
+               leggi
               </a>
-              <ul class="dropdown-menu dropdown-menu-right px-2 py-3 ms-n4" aria-labelledby="dropdownMenuButton">
-                ...
-              </ul>
-            </div>
-          </div>
-          <div class="col-auto">
-            <div class="bg-white border-radius-lg d-flex me-2">
-              <input type="text" class="form-control border-0 ps-3" placeholder="Type here...">
-              <button class="btn bg-gradient-primary my-1 me-1">Search</button>
-            </div>
-          </div>
+             </button>
+
         </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<p>See <a href="/tags/">all tags</a>.</p>
+
+
+
+
+        <p> collegamento a questa pagina <a href="/tags/giulio-giorello/">/tags/giulio-giorello/</a></p>
+      </main>
+      <footer>
+          <nav class="navbar fixed-bottom navbar-expand-sm navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Bottom navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled">Disabled</a>
+        </li>
+        <li class="nav-item dropup">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdown10" data-bs-toggle="dropdown" aria-expanded="false">Dropup</a>
+          <ul class="dropdown-menu" aria-labelledby="dropdown10">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
       </ul>
     </div>
   </div>
 </nav>
-<!-- End Navbar -->
 
-
-
-    <main class="container py-vh-5">
-      <div class="row d-flex justify-content-center">
-        <div class="col-12 col-lg-10 col-xl-8">
-          <header>
-      <h1 class="display-1">Tagged “Giulio Giorello”</h1>
-</header>
-
-
-
-  
-  <div class="row d-flex justify-content-center">
-  <div class="col-12">
-      <div class="py-5 border-bottom">
-        <a href="/posts/2017-05-15-etica-ribelle-scienza-giorello-donghi/" class="text-decoration-none text-dark"><h2 class="display-4">Etica del ribelle. La scienza e la storia tra fratture e continuità</h2></a>
-        <p>Published
-          <time datetime="2017-05-15">15 May 2017</time>
-        </p>
-        <p>
-        
-          
-          <a href="/tags/ali-ahmad-sa&amp;#39;id/" class="btn btn-outline-dark btn-sm me-2">Ali Ahmad Sa’id</a>
-        
-          
-          <a href="/tags/astronomia/" class="btn btn-outline-dark btn-sm me-2">astronomia</a>
-        
-          
-          <a href="/tags/averroe/" class="btn btn-outline-dark btn-sm me-2">Averroè</a>
-        
-          
-          <a href="/tags/bosone/" class="btn btn-outline-dark btn-sm me-2">bosone</a>
-        
-          
-          <a href="/tags/enriques/" class="btn btn-outline-dark btn-sm me-2">Enriques</a>
-        
-          
-          <a href="/tags/fisica/" class="btn btn-outline-dark btn-sm me-2">fisica</a>
-        
-          
-          <a href="/tags/gadda/" class="btn btn-outline-dark btn-sm me-2">Gadda</a>
-        
-          
-          <a href="/tags/geymonat/" class="btn btn-outline-dark btn-sm me-2">Geymonat</a>
-        
-          
-          <a href="/tags/giulio-giorello/" class="btn btn-outline-dark btn-sm me-2">Giulio Giorello</a>
-        
-          
-          <a href="/tags/illuminismo/" class="btn btn-outline-dark btn-sm me-2">illuminismo</a>
-        
-          
-          <a href="/tags/islam/" class="btn btn-outline-dark btn-sm me-2">Islam</a>
-        
-          
-          <a href="/tags/kant/" class="btn btn-outline-dark btn-sm me-2">Kant</a>
-        
-          
-          <a href="/tags/kuhn/" class="btn btn-outline-dark btn-sm me-2">Kuhn</a>
-        
-          
-          <a href="/tags/matematica/" class="btn btn-outline-dark btn-sm me-2">matematica</a>
-        
-          
-          <a href="/tags/pino-donghi/" class="btn btn-outline-dark btn-sm me-2">Pino Donghi</a>
-        
-          
-          <a href="/tags/popper/" class="btn btn-outline-dark btn-sm me-2">Popper</a>
-        
-          
-          <a href="/tags/rivoluzione-francese/" class="btn btn-outline-dark btn-sm me-2">rivoluzione francese</a>
-        
-          
-          <a href="/tags/scienza/" class="btn btn-outline-dark btn-sm me-2">scienza</a>
-        
-          
-          <a href="/tags/scritture/" class="btn btn-outline-dark btn-sm me-2">Scritture</a>
-        
-      </p>
-        <p></p>
-        <a href="/posts/2017-05-15-etica-ribelle-scienza-giorello-donghi/" class="link-fancy">Read more...</a>
-      </div>
-    
-  </div>
-</div>
-
-<div class="row d-flex justify-content-center">
-  <div class="col-12">
-    <div class="row d-flex justify-content-between">
-      <div class="col">
-        
-          <a href="/tags/geymonat/" class="btn btn-outline-primary">< Previous Page</a>  </div> <div class="col text-end">  <a href="/tags/illuminismo/" class="btn btn-outline-primary">Next Page ></a>
-        
-      </div>
+      </footer>
     </div>
-  </div>
-</div>
-
-  <p>See <a href="/tags/">all tags</a>.</p>
-
-
-
-        </div>
-      </div>
-    </main>
-
-    <footer class="container">
-      <div class="row border-top py-5">
-  <div class="col-12">
-    <p class=""><img src="/img/hkimg.png" alt="Holger Koenemann, UX designer and Frontend Engineer" width="60" height="60" class="float-left mt-1 me-3 gradient-rounded">A tiny sideproject by
-      <a href="https://github.com/holger1411" class="link-fancy">Holger Koenemann</a>. Made in lovely Hannover, Germany</p>
-  </div>
-</div>
-
-<script src="/js/bootstrap.bundle.min.js"></script>
-
-
-<!-- Core -->
-<script src="../assets/js/core/popper.min.js"></script>
-<script src="../assets/js/core/bootstrap.min.js"></script>
-
-<!-- Theme JS -->
-<script src="../assets/js/soft-ui-dashboard.min.js"></script>
-
-
-    </footer>
-
+    <!-- Current page:   /tags/giulio-giorello/-->
+    
+  <script src="/js/bootstrap.bundle.js"></script>
+    
   </body>
-
 </html>

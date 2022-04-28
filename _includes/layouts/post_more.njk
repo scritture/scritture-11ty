@@ -1,0 +1,350 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+
+
+<!--
+
+<h1>{{ title }}</h1>
+
+<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+{%- for tag in tags | filterTagList -%}
+{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+{%- endfor %}
+
+{{ content | safe }}
+
+{%- if collections.posts %}
+{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- if nextPost or previousPost %}
+<hr>
+<ul>
+  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+</ul>
+{%- endif %}
+{%- endif %}
+
+<header>
+<div class="page-header min-vh-85">
+<div class="position-absolute border-radius-lg border-top-start-radius-0 border-top-end-radius-0 border-bottom-end-radius-0 fixed-top ms-auto w-50 h-100 z-index-0 d-none d-sm-none d-md-block" style="background-image: url('{{image}}'); background-size:cover;">
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-7 d-flex justify-content-center flex-column">
+<div class="card card-body blur d-flex justify-content-center px-5 shadow-lg mt-lg-5 mt-3 py-5">
+<h1 class="text-gradient text-primary mb-0">{{title}}</h1>
+<h3 class="mb-4">{{subtitle}}</h3>
+<p class="lead pe-sm-5 me-sm-5">{{headline}} </p>
+<h5 class="mt-3">di {{author}}</h5>
+<div class="d-flex justify-content-start">
+<a href="javascript:;"><i class="fab fa-facebook text-dark me-4 text-lg"></i></a>
+<a href="javascript:;"><i class="fab fa-instagram text-dark me-4 text-lg"></i></a>
+<a href="javascript:;"><i class="fab fa-twitter text-dark me-4 text-lg"></i></a>
+<a href="javascript:;"><i class="fab fa-google-plus text-dark text-lg"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+-->
+<section class="py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="col-lg-6 justify-content-center d-flex flex-column">
+            <div class="card rounded-3">
+              <div class="d-block blur-shadow-image">
+                <img src="{{image}}" alt="img-blur-shadow-blog-2" class="img-fluid shadow rounded-3">
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 justify-content-center d-flex flex-column ps-lg-5 pt-lg-0 pt-3">
+            <h3> <a href="#" class="text-darker">{{title}}</a> </h3>
+            <h6 class="category  mt-3 " style="font-size: 120%; color: #444444" >{{subtitle}}</h6>
+
+
+            <p class="author">
+              di  <a href="javascript:;" class="ms-1"><span class="font-weight-bold text-info">{{author}}</span>
+              </a>, <time datetime="{{ page.date | htmlDateString }}"> &nbsp;  {{ page.date | readableDate }} </time> 
+              </p>
+            <p style="color: darkgray; font-size: 120%" >
+             {{headline}} 
+             {#
+             <a href="javascript:;" class="text-darker icon-move-right text-sm">Read More
+                <i class="fas fa-arrow-right text-xs ms-1"></i>
+              </a>
+              #}
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-12 mt-5">
+
+
+{{ content | safe }}
+        <div class="row flex-row-reverse">
+          <div class="col-lg-6 justify-content-center d-flex flex-column">
+            <div class="card rounded-3">
+              <div class="blur-shadow-image">
+                <img src="{{image}}" alt="img-blur-shadow-blog-2" class="img-fluid shadow rounded-3">
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 pe-lg-5 justify-content-center d-flex flex-column pt-lg-0 pt-3">
+            <h6 class="category text-info mt-3">House</h6>
+            <h3>
+              <a href="javascript:;" class="text-darker">{{title}}</a>
+            </h3>
+            <p>
+              {{headline}} 
+              {# <a href="javascript:;" class="text-darker icon-move-right text-sm">Read More
+                <i class="fas fa-arrow-right text-xs ms-1"></i>
+              </a>
+              #}
+            </p>
+            <p class="author">
+              by <a href="javascript:;" class="ms-1">
+              <span class="font-weight-bold text-info">di {{author}}</span></a>, <time datetime="{{ page.date | htmlDateString }}"> {{ page.date | readableDate }} </time>
+            </p>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+
+</section>
+
+
+
+<section class="py-5 mt-5">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 ms-auto me-auto">
+<h6 class="opacity-7 text-uppercase font-weight-bolder text-sm">The Idea</h6>
+<h3 class="title mb-4">Create a design system that can be used in any product available</h3>
+<p class="text-dark">
+{{ content | safe }}
+</p>
+</div>
+</div>
+<section class="py-7 position-relative">
+<div id="carousel-testimonials" class="carousel slide carousel-team">
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-5 me-lg-auto position-relative">
+<h6 class="opacity-7 text-uppercase font-weight-bolder text-sm fadeIn4 fadeInBottom">First Step</h6>
+<h1 class="text-dark display-3 font-weight-bolder fadeIn2 fadeInBottom">Give your best</h1>
+<p class="my-4 lead text-dark fadeIn2 fadeInBottom">
+Give your best to create something unique with high impact.
+</p>
+</div>
+<div class="col-md-5 ms-lg-auto">
+<div class="p-3">
+<img class="w-100 border-radius-md max-height-600 fadeIn2 fadeInBottom" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system../assets/img/color-woman.jpg" alt="First slide">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="carousel-item">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-5 me-lg-auto position-relative">
+<h6 class="opacity-7 text-uppercase font-weight-bolder text-sm fadeIn4 fadeInBottom">Second Step</h6>
+<h1 class="text-dark display-3 font-weight-bolder fadeIn2 fadeInBottom">Plan your work</h1>
+<p class="my-4 lead text-dark fadeIn2 fadeInBottom">
+As we live, our hearts turn colder. Cause pain is what we go through.
+</p>
+</div>
+<div class="col-md-5 ms-lg-auto">
+<div class="p-3">
+<img class="w-100 border-radius-md max-height-600 fadeIn2 fadeInBottom" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system../assets/img/color-light.jpg" alt="Second slide">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="carousel-item">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-5 me-lg-auto position-relative">
+<h6 class="opacity-7 text-uppercase font-weight-bolder text-sm fadeIn4 fadeInBottom">Third Step</h6>
+<h1 class="text-dark display-3 font-weight-bolder fadeIn2 fadeInBottom">Follow your dreams</h1>
+<p class="my-4 lead text-dark fadeIn2 fadeInBottom">
+The time is now for it to be okay to be great. People in this world shun people.
+</p>
+</div>
+<div class="col-md-5 ms-lg-auto">
+<div class="p-3">
+<img class="w-100 border-radius-md max-height-600 fadeIn2 fadeInBottom" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system../assets/img/circle-guy.jpg" alt="Second slide">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="carousel-item">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-5 me-lg-auto position-relative">
+<h6 class="opacity-7 text-uppercase font-weight-bolder text-sm fadeIn4 fadeInBottom">Fourth Step</h6>
+<h1 class="text-dark display-3 font-weight-bolder fadeIn2 fadeInBottom">Never give up</h1>
+<p class="my-4 lead text-dark fadeIn2 fadeInBottom">
+Everyone's born confident, and everything's taken away from you.
+</p>
+</div>
+<div class="col-md-5 ms-lg-auto">
+<div class="p-3">
+<img class="w-100 border-radius-md max-height-600 fadeIn2 fadeInBottom" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system../assets/img/color-icecream.jpg" alt="Second slide">
+</div>
+</div>
+</div>
+</div>
+ </div>
+</div>
+<div class="position-relative mt-n6">
+<a class="carousel-control-prev text-dark position-absolute bottom-0 start-0" href="#carousel-testimonials" role="button" data-bs-slide="prev">
+<i class="fas fa-2x fa-chevron-left position-absolute start-0 ms-3"></i>
+<span class="sr-only">Previous</span>
+</a>
+<a class="carousel-control-next text-dark position-absolute bottom-0 start-0 ms-4" href="#carousel-testimonials" role="button" data-bs-slide="next">
+<i class="fas fa-2x fa-chevron-right"></i>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+<div class="row mt-10">
+<div class="col-lg-3 col-6 mb-lg-0 mb-4">
+<a href="javascript:;" class="text-lg text-gradient text-primary h3 ps-3 active" data-bs-target="#carousel-testimonials" data-bs-slide-to="0">
+<span>01</span>
+<span class="ms-2">Give your best</span>
+</a>
+</div>
+<div class="col-lg-3 col-6 mb-lg-0 mb-4">
+<a href="javascript:;" class="text-lg text-gradient text-primary h3" data-bs-target="#carousel-testimonials" data-bs-slide-to="1">
+<span>02</span>
+<span class="ms-2">Plan your work</span>
+</a>
+</div>
+<div class="col-lg-3 col-6 mb-lg-0 mb-4">
+<a href="javascript:;" class="text-lg text-gradient text-primary h3" data-bs-target="#carousel-testimonials" data-bs-slide-to="2">
+<span>03</span>
+<span class="ms-2"> Follow your dreams </span>
+</a>
+</div>
+<div class="col-lg-3 col-6 mb-lg-0 mb-4">
+<a href="javascript:;" class="text-lg text-gradient text-primary h3" data-bs-target="#carousel-testimonials" data-bs-slide-to="3">
+<span>04</span>
+<span class="ms-2"> Never give up </span>
+</a>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="py-7">
+<div class="container">
+<div class="row">
+<div class="col-9 text-center mx-auto">
+<h3 class="mb-5">Altri articoli</h3>
+</div>
+<div class="col-lg-4 mb-lg-0 mb-4">
+<div class="card">
+<div class="card-header p-0 mx-3 mt-3 position-relative z-index-1">
+<a href="javascript:;" class="d-block blur-shadow-image">
+<img src="{{image}}" class="img-fluid border-radius-md" alt="copertina">
+</a>
+</div>
+<div class="card-body">
+<span class="text-gradient text-primary text-uppercase text-xs font-weight-bold">{{title}}</span>
+<a href="javascript:;" class="card-title mt-3 h5 d-block text-darker">
+{{subtitle}}
+</a>
+<p class="card-description mb-4">
+{{headline}}
+</p>
+<div class="author align-items-center">
+<img src="/assets/img/team-2.jpg" alt="..." class="avatar shadow">
+<div class="name ps-2">
+<span>{{author}}</span>
+<div class="stats">
+<small><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></small>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 mb-lg-0 mb-4">
+<div class="card">
+<div class="card-header p-0 mx-3 mt-3 position-relative z-index-1">
+<a href="javascript:;" class="d-block blur-shadow-image">
+<img src="../assets/img/nastuh.jpg" class="img-fluid border-radius-md" alt="nastuh">
+</a>
+</div>
+<div class="card-body">
+<span class="text-gradient text-info text-uppercase text-xs font-weight-bold">House</span>
+<a href="javascript:;" class="text-darker card-title mt-3 h5 d-block">
+{{title}}
+</a>
+<p class="card-description mb-4">
+{{subtitle}}
+</p>
+<div class="author align-items-center">
+<img src="../assets/img/ivana-squares.jpg" alt="ivana" class="avatar shadow">
+<div class="name ps-2">
+<span>Mathew Glock</span>
+<div class="stats">
+<small><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></small>
+ </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 mb-lg-0 mb-4">
+<div class="card">
+<div class="card-header p-0 mx-3 mt-3 position-relative z-index-1">
+<a href="javascript:;" class="d-block blur-shadow-image">
+<img src="../assets/img/annie-spratt.jpg" class="img-fluid border-radius-md" alt="annie">
+</a>
+</div>
+<div class="card-body">
+<span class="text-gradient text-warning text-uppercase text-xs font-weight-bold">House</span>
+<a href="javascript:;" class="text-darker card-title mt-3 h5 d-block">
+Shared Coworking
+</a>
+<p class="card-description mb-4">
+Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons.
+</p>
+<div class="author align-items-center">
+<img src="../assets/img/marie.jpg" alt="marie" class="avatar shadow">
+<div class="name ps-2">
+<span>Mathew Glock</span>
+<div class="stats">
+<small>Posted on 28 February</small>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
