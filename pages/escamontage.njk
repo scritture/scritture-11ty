@@ -1,10 +1,11 @@
 ---
 layout: layouts/home.njk
 permalink: /escamontage/
-eleventyNavigation:
-  key: escamontage editoria
-  order: 5
 ---
+{# eleventyNavigation:
+  key: escamontage editoria
+  order: 5 #}
+  
 {% set maxPosts = collections.escamontage.length | min(3) %}
 
 <h3>Gli ultimi  {% if maxPosts == 1 %}escamontage{% else %}{{ maxPosts }} articoli della  rivista{% endif %}</h3>

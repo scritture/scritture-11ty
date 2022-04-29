@@ -3,9 +3,6 @@ author: Alessandro Maini
 comments: false
 date: 2017-06-15 10:00:18+00:00
 image: /images/2017/10/Etherneal_Meditation.jpg
-
-link: http://redazione.scritture.net/mag/il-cuore-del-vuoto/
-slug: il-cuore-del-vuoto
 title: Il cuore del vuoto
 categories:
 - filosofia
@@ -27,7 +24,7 @@ LXXXV
 La Porta non ha serrature, non farti distrarre.
 
 II
-Osserva, agisci, ma lascia accadere dall'alto; confida.
+Osserva, agisci, ma lascia accadere dall’alto; confida.
 
 XII
 Ama il tuo cavallo, figliolo, ma la direzione decidila tu.
@@ -48,7 +45,7 @@ V
 Non rinunciai al mondo: anzi, mi ci immersi. Rinunciai, invece, alla vostra velocità.
 
 XXXIX
-Ora è silenzio, anche nell'azione.
+Ora è silenzio, anche nell’azione.
 
 IX
 C'è sempre una possibilità diversa, ed è miracolo.
@@ -57,7 +54,7 @@ XXX
 Ma non vedi?
 
 XXVI
-L'ultima parola del Maestro fu un sorriso.
+L’ultima parola del Maestro fu un sorriso.
 
 •
 

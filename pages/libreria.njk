@@ -1,0 +1,139 @@
+---
+layout: layouts/home.njk
+permalink: /libreria/
+pagina01:
+  url: /rivista/2017-12-11-gerusalemme-guida-possibile-alla-terra-negata/
+  foto: /images/2017/12/Old-City-of-Jerusalem-Encyclopedia-Britannica-1997.jpg
+  titolo: "Gerusalemme guida possibile alla terra negata"
+  sottotitolo: "Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri umani."
+pagina02:
+  url: /rivista/2017-11-07-piotr-merkurj-la-pittura-della-luce/ 
+  foto: /images/2017/11/Vetrata-Palma-di-Montechiaro-AG.jpg
+  titolo: "Piotr Merkurj: la pittura della luce"
+  sottotitolo: "Un pittore russo tra Oriente e Occidente. Pensare le icone, dipingere nel pensiero. Dialogo su luce e materia, forma e colore, spiritualità dell'arte, autonomia della cultura."
+pagina03:
+  url: /rivista/2017-10-09-lotta-armata-giustizia-pop-varia-letteratura/
+  foto: /images/2017/10/Battisti_noir-1.jpg
+  titolo: Lotta armata, giustizia pop, varia letteratura
+  sottotitolo:  "Piccolo viaggio negli anni di piombo e i suoi fantasmi senza agiografie né riprovazioni. Vita e opere di Cesare Battisti. Prassi e teoria del Processo 7 Aprile. Politica, informazione e terrorismo secondo Toni Negri, Giovanna Procacci, Giorgio Grossi, Hans-Dieter Bahr. Censure e dintorni."
+pagina04:
+  url:
+  foto:
+  titolo:
+  sottotitolo:
+pagina05:
+  url:
+  foto:
+  titolo:
+  sottotitolo:
+pagina06:
+  url:
+  foto:
+  titolo:
+  sottotitolo:
+pagina07:
+  url:
+  foto:
+  titolo:
+  sottotitolo:
+pagina08:
+  url:
+  foto:
+  titolo:
+  sottotitolo:
+pagina09:
+  url:
+  foto:
+  titolo:
+  sottotitolo:
+eleventyNavigation:
+  key: libreria
+  order: 4
+---
+<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="10000">
+      <a  href="{{pagina01.url}}" >
+      <img src="{{pagina01.foto}}" class="d-block w-100" alt="{{pagina01.titolo}}">
+      </a>
+        <div class="carousel-caption d-none d-md-block">
+            <a  href="{{pagina01.url}}" >
+        <h5>{{pagina01.titolo}}</h5>
+        </a>
+        <p>{{pagina01.sottotitolo}}</p>
+      </div>
+    </div>
+    <div class="carousel-item" data-bs-interval="10000">
+      <a  href="{{pagina02.url}}" >
+      <img src="{{pagina02.foto}}" class="d-block w-100" alt="{{pagina02.titolo}}">
+      </a>
+        <div class="carousel-caption d-none d-md-block">
+            <a  href="{{pagina02.url}}" >
+        <h5>{{pagina02.titolo}}</h5>
+        </a>
+        <p>{{pagina02.sottotitolo}}</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="10000">
+      <a  href="{{pagina03.url}}" >
+      <img src="{{pagina03.foto}}" class="d-block w-100" alt="{{pagina03.titolo}}">
+      </a>
+        <div class="carousel-caption d-none d-md-block">
+            <a  href="{{pagina03.url}}" >
+        <h5>{{pagina03.titolo}}</h5>
+        </a>
+        <p>{{pagina03.sottotitolo}}</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="10000">
+      <a  href="{{pagina04.url}}" >
+      <img src="{{pagina04.foto}}" class="d-block w-100" alt="{{pagina04.titolo}}">
+      </a>
+        <div class="carousel-caption d-none d-md-block">
+            <a  href="{{pagina04.url}}" >
+        <h5>{{pagina04.titolo}}</h5>
+        </a>
+        <p>{{pagina04.sottotitolo}}</p>
+      </div>
+    </div>
+
+    <div class="carousel-item" data-bs-interval="10000">
+      <a  href="{{pagina05.url}}" >
+      <img src="{{pagina05.foto}}" class="d-block w-100" alt="{{pagina05.titolo}}">
+      </a>
+        <div class="carousel-caption d-none d-md-block">
+            <a  href="{{pagina05.url}}" >
+        <h5>{{pagina05.titolo}}</h5>
+        </a>
+        <p>{{pagina05.sottotitolo}}</p>
+      </div>
+    </div>
+
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<h4>Catalogo</h4>
+
+
+{# 
+{% set maxPosts = collections.vinolibreria.length | min(3) %}
+
+<h3>Le ultime pagine  {% if maxPosts == 1 %}vinolibreria{% else %}{{ maxPosts }} della vinolibreria{% endif %}</h3>
+
+{% set postslist = collections.vinolibreria | head(-3) %}
+{% set postslistCounter = collections.vinolibreria | length %}
+{% include "postslist.njk" %}
+
+<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+
+#}
