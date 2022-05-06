@@ -1,11 +1,23 @@
 ---
 layout: layouts/home.njk
 permalink: /escamontage/
----
-{# eleventyNavigation:
+eleventyNavigation:
   key: escamontage editoria
-  order: 5 #}
-  
+  order: 10 
+---
+<hr style="height:50px;border-width:0;color:gray;background-color:#97da82"> 
+  <header class="py-3 mb-4 border-bottom">
+    <div class="container d-flex flex-wrap justify-content-center">
+
+
+      <a href="/escamontage/" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+        <span class="fs-4">escamontage</span>
+      </a>
+
+    </div>
+  </header>
+
 {% set maxPosts = collections.escamontage.length | min(3) %}
 
 <h3>Gli ultimi  {% if maxPosts == 1 %}escamontage{% else %}{{ maxPosts }} articoli della  rivista{% endif %}</h3>

@@ -4,19 +4,14 @@
   <head>
     {% include 'snippets/head.njk' %}
   </head>
-
   <body>
-
     {% include 'snippets/navbar.njk' %}
-
-    <main>
+    
+    <main class="conteiner">
       {{ content | safe }}
     </main>
-
     <footer class="container">
       {% include 'snippets/footer.njk' %}
     </footer>
-
   </body>
-
 </html>

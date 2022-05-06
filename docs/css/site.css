@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+*:not(i):not(.fa){
+  font-family:Vollkorn, serif;
+  
+}
+
+a {
+  color: #69778c !important;
+  text-decoration: none !important;
+}
+a:hover {
+  color: #3b434e !important;
+}
+.navbar {
+	margin:0px !important;
+	padding: 0px !important;
+}
+

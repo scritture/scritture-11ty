@@ -5,18 +5,27 @@ eleventyNavigation:
   key: rivista
   order: 1
 ---
-
+<hr  style="height:50px;border-width:0;color:gray;background-color:#bc1cd0"> 
+<div class="jumbotron">
+  <div class="container text-center">
+    <a href="/">
+      <img src="/images/cropped-scritture_logo-1.jpg" class="img-fluid" alt="" class="d-inline-block align-text-top"> 
+    </a>
+  </div>
+</div>
+<hr>
+<h3>rivista</h3>
 {% set maxPosts = collections.rivista.length | min(5) %}
+{# 
 <h3>Gli ultimi  {% if maxPosts == 1 %}rivista{% else %}{{ maxPosts }} articoli della  rivista{% endif %}</h3>
-
-{% set postslist = collections.rivista | head(-5) %}
+#}
+{% set postslist = collections.rivista | head(-50) %}
 {% set postslistCounter = collections.rivista | length %}
-{% include "list.njk" %}
+{% include "postslist.njk" %}
+{% include "home_list.njk" %}
 
-<h2> Tutti gli articoli </h2>
 
-{# pagination.items has the data for the current page #}
-
+{# pagination.items has the data for the current page 
 {% set postslist = collections.rivista %}
 {% include "postslist.njk" %}
-
+#}

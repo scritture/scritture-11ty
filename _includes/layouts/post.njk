@@ -7,7 +7,7 @@ templateClass: tmpl-post
 <div class="container">
 
 
-  <div class="p-2 p-md-5 mb-4 text-white rounded bg-secondary">
+  <div class="p-2 p-md-5 mb-4 text-danger rounded alert-secondary">
     <div class="col-md-12 px-0">
       <h1 class="display-4 fst-italic">{{ title }}</h1>
       <p class="author">
@@ -21,7 +21,9 @@ templateClass: tmpl-post
      <p>
         {%- for tag in tags | filterTagList -%}
         {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-        <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+        <dev >
+        <a href="{{ tagUrl | url }}" class="btn btn-warning m-1" type="button" > {{ tag }} </a> 
+        </dev>
         {%- endfor %}
       </p>
     </div>

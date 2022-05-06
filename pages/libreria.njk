@@ -50,90 +50,29 @@ eleventyNavigation:
   key: libreria
   order: 4
 ---
-<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="10000">
-      <a  href="{{pagina01.url}}" >
-      <img src="{{pagina01.foto}}" class="d-block w-100" alt="{{pagina01.titolo}}">
-      </a>
-        <div class="carousel-caption d-none d-md-block">
-            <a  href="{{pagina01.url}}" >
-        <h5>{{pagina01.titolo}}</h5>
-        </a>
-        <p>{{pagina01.sottotitolo}}</p>
-      </div>
-    </div>
-    <div class="carousel-item" data-bs-interval="10000">
-      <a  href="{{pagina02.url}}" >
-      <img src="{{pagina02.foto}}" class="d-block w-100" alt="{{pagina02.titolo}}">
-      </a>
-        <div class="carousel-caption d-none d-md-block">
-            <a  href="{{pagina02.url}}" >
-        <h5>{{pagina02.titolo}}</h5>
-        </a>
-        <p>{{pagina02.sottotitolo}}</p>
-      </div>
-    </div>
 
-    <div class="carousel-item" data-bs-interval="10000">
-      <a  href="{{pagina03.url}}" >
-      <img src="{{pagina03.foto}}" class="d-block w-100" alt="{{pagina03.titolo}}">
+<hr style="height:50px;border-width:0;color:gray;background-color:#118cd9"> 
+ <header class="py-3 mb-4 border-bottom">
+    <div class="container d-flex flex-wrap justify-content-center">
+
+      <a href="/libreria/" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+        <span class="fs-4">grandtour libreria</span>
       </a>
-        <div class="carousel-caption d-none d-md-block">
-            <a  href="{{pagina03.url}}" >
-        <h5>{{pagina03.titolo}}</h5>
-        </a>
-        <p>{{pagina03.sottotitolo}}</p>
-      </div>
+
     </div>
-
-    <div class="carousel-item" data-bs-interval="10000">
-      <a  href="{{pagina04.url}}" >
-      <img src="{{pagina04.foto}}" class="d-block w-100" alt="{{pagina04.titolo}}">
-      </a>
-        <div class="carousel-caption d-none d-md-block">
-            <a  href="{{pagina04.url}}" >
-        <h5>{{pagina04.titolo}}</h5>
-        </a>
-        <p>{{pagina04.sottotitolo}}</p>
-      </div>
-    </div>
-
-    <div class="carousel-item" data-bs-interval="10000">
-      <a  href="{{pagina05.url}}" >
-      <img src="{{pagina05.foto}}" class="d-block w-100" alt="{{pagina05.titolo}}">
-      </a>
-        <div class="carousel-caption d-none d-md-block">
-            <a  href="{{pagina05.url}}" >
-        <h5>{{pagina05.titolo}}</h5>
-        </a>
-        <p>{{pagina05.sottotitolo}}</p>
-      </div>
-    </div>
-
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-
+  </header>
 <h4>Catalogo</h4>
 
 
+
+{% set maxPosts = collections.libreria.length | min(3) %}
 {# 
-{% set maxPosts = collections.vinolibreria.length | min(3) %}
-
-<h3>Le ultime pagine  {% if maxPosts == 1 %}vinolibreria{% else %}{{ maxPosts }} della vinolibreria{% endif %}</h3>
-
-{% set postslist = collections.vinolibreria | head(-3) %}
-{% set postslistCounter = collections.vinolibreria | length %}
+<h3>Le ultime pagine  {% if maxPosts == 1 %}libreria{% else %}{{ maxPosts }} della vinolibreria{% endif %}</h3>
+#}
+{% set postslist = collections.libreria | head(-3) %}
+{% set postslistCounter = collections.libreria | length %}
 {% include "postslist.njk" %}
 
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
 
-#}
