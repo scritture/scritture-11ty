@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/libreria/basso_impero/</loc>
+    <lastmod>2007-01-01</lastmod>
+  </url>
+  
+  <url>
     <loc>/rivista/2012-05-04-il-pianeta-dei-famosi/</loc>
     <lastmod>2012-05-04</lastmod>
   </url>
@@ -767,11 +772,6 @@
   </url>
   
   <url>
-    <loc>/libreria/thirdpost/</loc>
-    <lastmod>2018-08-24</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
@@ -832,22 +832,12 @@
   </url>
   
   <url>
-    <loc>/tags/esempio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/posts-with-two-tags/</loc>
+    <loc>/tags/escamontage/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
     <loc>/tags/another-tag/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/escamontage/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -858,6 +848,11 @@
   
   <url>
     <loc>/tags/number-2/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/posts-with-two-tags/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -1127,6 +1122,81 @@
   </url>
   
   <url>
+    <loc>/tags/adorno/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bologna/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/byron/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chiesa/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/israele/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lacan/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lucio-dalla/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pinkwashing/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/roberto-roversi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sessualita/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/voltaire/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/weininger/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/internet/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/perniola/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-network/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/agamben/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -1252,26 +1322,6 @@
   </url>
   
   <url>
-    <loc>/tags/europa/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/internet/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/perniola/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-network/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/arutiuniam/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -1357,72 +1407,7 @@
   </url>
   
   <url>
-    <loc>/tags/adorno/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bologna/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/byron/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/chiesa/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/israele/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lacan/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lucio-dalla/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/pinkwashing/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/roberto-roversi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sessualita/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/voltaire/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/weininger/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/immigrazione/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/narrazioni/</loc>
+    <loc>/tags/europa/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -1522,6 +1507,16 @@
   </url>
   
   <url>
+    <loc>/tags/immigrazione/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/narrazioni/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/bernays/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -1567,6 +1562,176 @@
   </url>
   
   <url>
+    <loc>/tags/8-settembre/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bentivoglio/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dante/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ferruccio-civra/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/feyerabend/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ii-guerra-mondiale/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/impressionismo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/retorica-musicale/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/schonberg/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tiziano-costa/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tristan-honsinger/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vignola/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/america/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/baudrillard/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/brzezinski/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/caracciolo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/clausewitz/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/de-benoist/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deleuze/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fratelli-musulmani/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/galli/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/guattari/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hard/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/henzesberger/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/integralismo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jihad/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/loretta-napoleoni/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/marocco/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mini/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/negri/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pakistan/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/settembre-nero/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tanzania/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/wang-xiangsui/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/al-jabri/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -1583,11 +1748,6 @@
   
   <url>
     <loc>/tags/franco-fabbri/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/integralismo/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -1658,71 +1818,6 @@
   
   <url>
     <loc>/tags/white-city/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/8-settembre/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bentivoglio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dante/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ferruccio-civra/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/feyerabend/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ii-guerra-mondiale/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/impressionismo/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/retorica-musicale/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/schonberg/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tiziano-costa/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tristan-honsinger/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vignola/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/america/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -1927,36 +2022,6 @@
   </url>
   
   <url>
-    <loc>/tags/bibesco/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bisanzio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/derrida/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/flaubert/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/james-frazer/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/turchia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/appennino/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -1968,6 +2033,11 @@
   
   <url>
     <loc>/tags/dacia-manto/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/derrida/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -2027,102 +2097,27 @@
   </url>
   
   <url>
-    <loc>/tags/baudrillard/</loc>
+    <loc>/tags/bibesco/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/brzezinski/</loc>
+    <loc>/tags/bisanzio/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/caracciolo/</loc>
+    <loc>/tags/flaubert/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/clausewitz/</loc>
+    <loc>/tags/james-frazer/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/de-benoist/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deleuze/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fratelli-musulmani/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/galli/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/guattari/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hard/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/henzesberger/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/jihad/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/loretta-napoleoni/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/marocco/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mini/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/negri/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/pakistan/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/settembre-nero/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tanzania/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/wang-xiangsui/</loc>
+    <loc>/tags/turchia/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -2392,6 +2387,61 @@
   </url>
   
   <url>
+    <loc>/tags/barthes/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/calvino/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dubois/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/editoria/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ferroni/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/filosofia/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/foucault/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/letteratura/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pound/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/schopenauer/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/svevo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/berlusconi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -2507,87 +2557,92 @@
   </url>
   
   <url>
-    <loc>/tags/premi/</loc>
+    <loc>/tags/calvi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/barthes/</loc>
+    <loc>/tags/de-giori/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/calvino/</loc>
+    <loc>/tags/erodoto/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/dubois/</loc>
+    <loc>/tags/ferdinando-imposimato/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/editoria/</loc>
+    <loc>/tags/ferraris/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ferroni/</loc>
+    <loc>/tags/giovanni-della-croce/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/filosofia/</loc>
+    <loc>/tags/giovanni-paolo-i/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/foucault/</loc>
+    <loc>/tags/giovanni-paolo-ii/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/letteratura/</loc>
+    <loc>/tags/gotti-tedeschi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/pound/</loc>
+    <loc>/tags/herranz/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/schopenauer/</loc>
+    <loc>/tags/ignazio-da-loyola/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/svevo/</loc>
+    <loc>/tags/jonathan-levy/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/aleister-crowley/</loc>
+    <loc>/tags/licio-gelli/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/borges/</loc>
+    <loc>/tags/marcinkus/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/cabala/</loc>
+    <loc>/tags/michele-sindona/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/platone/</loc>
+    <loc>/tags/nanni-moretti/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/marvel/</loc>
+    <loc>/tags/o&amp;amp;#39;-brien/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/origene/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -2597,22 +2652,57 @@
   </url>
   
   <url>
-    <loc>/tags/reagan/</loc>
+    <loc>/tags/pavel-hnilica/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sindone/</loc>
+    <loc>/tags/philip-willan/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/spider-man/</loc>
+    <loc>/tags/pio-xii/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/usa/</loc>
+    <loc>/tags/pistorius/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ratzinger/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/schmitt/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/simone-weil/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tao/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/unamuno/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/upanisad/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/premi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -2742,142 +2832,242 @@
   </url>
   
   <url>
-    <loc>/tags/calvi/</loc>
+    <loc>/tags/aleister-crowley/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/de-giori/</loc>
+    <loc>/tags/borges/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/erodoto/</loc>
+    <loc>/tags/cabala/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ferdinando-imposimato/</loc>
+    <loc>/tags/platone/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ferraris/</loc>
+    <loc>/tags/marvel/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/giovanni-della-croce/</loc>
+    <loc>/tags/reagan/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/giovanni-paolo-i/</loc>
+    <loc>/tags/sindone/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/giovanni-paolo-ii/</loc>
+    <loc>/tags/spider-man/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/gotti-tedeschi/</loc>
+    <loc>/tags/usa/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/herranz/</loc>
+    <loc>/tags/guerra-fredda/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ignazio-da-loyola/</loc>
+    <loc>/tags/guerra-globale/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/jonathan-levy/</loc>
+    <loc>/tags/iran/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/licio-gelli/</loc>
+    <loc>/tags/iraq/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/marcinkus/</loc>
+    <loc>/tags/mediterraneo/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/michele-sindona/</loc>
+    <loc>/tags/sessantotto/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nanni-moretti/</loc>
+    <loc>/tags/settantasette/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/o&amp;amp;#39;-brien/</loc>
+    <loc>/tags/antonio-picasso/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/origene/</loc>
+    <loc>/tags/damasco/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/pavel-hnilica/</loc>
+    <loc>/tags/daraa/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/philip-willan/</loc>
+    <loc>/tags/diego-caserio/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/pio-xii/</loc>
+    <loc>/tags/fabio-mini/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/pistorius/</loc>
+    <loc>/tags/fortress-europe/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ratzinger/</loc>
+    <loc>/tags/francesca-bellino/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/schmitt/</loc>
+    <loc>/tags/gnosi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/simone-weil/</loc>
+    <loc>/tags/hurriyet/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tao/</loc>
+    <loc>/tags/ipek-yezdani/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/unamuno/</loc>
+    <loc>/tags/israel-shamir/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/upanisad/</loc>
+    <loc>/tags/jacques-charmelot/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/leone-grotti/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lorenzo-trombetta/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/margherita-paolini/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/maso-notarianni/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/michel-shammas/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/naomi-klein/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/neolingua/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/niccolo-locatelli/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/oliver-roy/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/orwell/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/paolo-dall&amp;amp;#39;oglio/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/papa-francesco/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/paul-salem/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/piccinin/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/politically-correct/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/qatar/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quirico/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rafiq-hariri/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tisrin/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/todorov/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -2888,11 +3078,6 @@
   
   <url>
     <loc>/tags/giovani-marmotte/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gnosi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -2908,16 +3093,6 @@
   
   <url>
     <loc>/tags/matematica/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/neolingua/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/orwell/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -2972,37 +3147,22 @@
   </url>
   
   <url>
-    <loc>/tags/guerra-fredda/</loc>
+    <loc>/tags/berlino/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/guerra-globale/</loc>
+    <loc>/tags/germania/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/iran/</loc>
+    <loc>/tags/neoliberismo/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/iraq/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mediterraneo/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sessantotto/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/settantasette/</loc>
+    <loc>/tags/sonderweg/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -3073,171 +3233,6 @@
   
   <url>
     <loc>/tags/vangeli/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/berlino/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/germania/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/neoliberismo/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sonderweg/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/antonio-picasso/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/damasco/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/daraa/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/diego-caserio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fabio-mini/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fortress-europe/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/francesca-bellino/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hurriyet/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ipek-yezdani/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/israel-shamir/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/jacques-charmelot/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/leone-grotti/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lorenzo-trombetta/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/margherita-paolini/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/maso-notarianni/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/michel-shammas/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/naomi-klein/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/niccolo-locatelli/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/oliver-roy/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/paolo-dall&amp;amp;#39;oglio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/papa-francesco/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/paul-salem/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/piccinin/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/politically-correct/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/qatar/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/quirico/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rafiq-hariri/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tisrin/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/todorov/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -3482,6 +3477,131 @@
   </url>
   
   <url>
+    <loc>/tags/averroe/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/costantinopoli/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gerusalemme/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/giordano-bruno/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graal/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/new-york/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/angelo-brelich/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/celti/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chassidismo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chateaubriand/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/etruschi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gallia/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/giove/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/irlanda/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kenneth-grant/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/luciano-di-samosata/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machpelah/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/misteri-eleusini/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/paganesimo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/peanuts/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/penati/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/persefone/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/qabbalah/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/qiliphoth/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/swedenborg/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/debord/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -3697,97 +3817,152 @@
   </url>
   
   <url>
-    <loc>/tags/angelo-brelich/</loc>
+    <loc>/tags/bradbury/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/celti/</loc>
+    <loc>/tags/de-sade/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/chassidismo/</loc>
+    <loc>/tags/diritti/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/chateaubriand/</loc>
+    <loc>/tags/eliade/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/etruschi/</loc>
+    <loc>/tags/evola/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/gallia/</loc>
+    <loc>/tags/hume/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/giove/</loc>
+    <loc>/tags/huxley/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/irlanda/</loc>
+    <loc>/tags/john-donne/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/kenneth-grant/</loc>
+    <loc>/tags/judith-butler/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/luciano-di-samosata/</loc>
+    <loc>/tags/la-cecla/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/machpelah/</loc>
+    <loc>/tags/reich/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/misteri-eleusini/</loc>
+    <loc>/tags/samuel-aum-weor/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/paganesimo/</loc>
+    <loc>/tags/tantra/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/peanuts/</loc>
+    <loc>/tags/transessuali/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/penati/</loc>
+    <loc>/tags/von-baader/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/persefone/</loc>
+    <loc>/tags/camus/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/qabbalah/</loc>
+    <loc>/tags/cardini/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/qiliphoth/</loc>
+    <loc>/tags/cccp/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/swedenborg/</loc>
+    <loc>/tags/charlie-hebdo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/corano/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/darnton/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fatima-mernissi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/levi-strauss/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/meyssan/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/michel-houllebecq/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/norah-jones/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/oriana-fallaci/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/palestina/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quintiliano/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sartre/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -3972,32 +4147,62 @@
   </url>
   
   <url>
-    <loc>/tags/averroe/</loc>
+    <loc>/tags/carducci/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/costantinopoli/</loc>
+    <loc>/tags/govoni/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/gerusalemme/</loc>
+    <loc>/tags/luzi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/giordano-bruno/</loc>
+    <loc>/tags/pascoli/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/graal/</loc>
+    <loc>/tags/sannazzaro/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/new-york/</loc>
+    <loc>/tags/verlaine/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/crisi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/finanza/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/paolo-barnard/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ronald-dore/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stiglitz/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/varoufakis/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4037,32 +4242,82 @@
   </url>
   
   <url>
-    <loc>/tags/carducci/</loc>
+    <loc>/tags/ataturk/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/govoni/</loc>
+    <loc>/tags/deurim-erbil/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/luzi/</loc>
+    <loc>/tags/gens-anicia/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/pascoli/</loc>
+    <loc>/tags/genserico/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sannazzaro/</loc>
+    <loc>/tags/husein-rifat/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/verlaine/</loc>
+    <loc>/tags/huseyin-gezer/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lamartine/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/le-courbusier/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/maometto-ii/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mercan-dede/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/orfeo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/oscar-wilde/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/proclo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sabri-berkel/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sefarditi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/zen/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4182,11 +4437,6 @@
   </url>
   
   <url>
-    <loc>/tags/varoufakis/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/will-opitz/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -4207,81 +4457,6 @@
   </url>
   
   <url>
-    <loc>/tags/camus/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cardini/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cccp/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/charlie-hebdo/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/corano/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/darnton/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fatima-mernissi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/levi-strauss/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/meyssan/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/michel-houllebecq/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/norah-jones/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/oriana-fallaci/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/palestina/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/quintiliano/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sartre/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/gainsbourg/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -4298,236 +4473,6 @@
   
   <url>
     <loc>/tags/medio-oriente/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/david-bowie/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fantascienza/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/kubrick/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rock/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ataturk/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deurim-erbil/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gens-anicia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/genserico/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/husein-rifat/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/huseyin-gezer/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lamartine/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/le-courbusier/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/maometto-ii/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mercan-dede/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/orfeo/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/oscar-wilde/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/proclo/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sabri-berkel/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sefarditi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/zen/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/costa-d&amp;amp;#39;avorio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/genetica/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/paul-virilio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/scritture/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bradbury/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/de-sade/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/diritti/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/eliade/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/evola/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hume/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/huxley/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/john-donne/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/judith-butler/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/la-cecla/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/reich/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/samuel-aum-weor/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tantra/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/transessuali/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/von-baader/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lipsia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/performance/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/crisi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/finanza/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/paolo-barnard/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ronald-dore/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/stiglitz/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4568,6 +4513,106 @@
   
   <url>
     <loc>/tags/rinascimento/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/david-bowie/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fantascienza/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kubrick/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rock/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/costa-d&amp;amp;#39;avorio/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/genetica/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/paul-virilio/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scritture/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/angela-merkel/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/angelo-bolaffi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matteo-cavallino/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sebastian-haffner/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/volker-lauder/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/angelo-favaro/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/faraon-meteors/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stefano-amorese/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tony-harrison/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lipsia/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/performance/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/liguria/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4622,12 +4667,37 @@
   </url>
   
   <url>
-    <loc>/tags/liguria/</loc>
+    <loc>/tags/lorenzo-scillitani/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lorenzo-scillitani/</loc>
+    <loc>/tags/don-cherry/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jackson-pollock/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ornette-coleman/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/massimo-bray/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/andre-gide/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/belpoliti/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4648,36 +4718,6 @@
   
   <url>
     <loc>/tags/jugoslavia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/massimo-bray/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/andre-gide/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/belpoliti/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/don-cherry/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/jackson-pollock/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ornette-coleman/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4787,52 +4827,17 @@
   </url>
   
   <url>
-    <loc>/tags/friedrich-hayek/</loc>
+    <loc>/tags/brian-m.-bendis/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/george-monbiot/</loc>
+    <loc>/tags/valentino/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/inghilterra/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ludwig-von-mises/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/margaret-thatcher/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/milton-friedman/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/indonesia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/marapu/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/pasola/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sumba/</loc>
+    <loc>/tags/renato-curcio/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4867,17 +4872,42 @@
   </url>
   
   <url>
-    <loc>/tags/renato-curcio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/isds/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
     <loc>/tags/stefano-feltri/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/friedrich-hayek/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/george-monbiot/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/inghilterra/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ludwig-von-mises/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/margaret-thatcher/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/milton-friedman/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4902,12 +4932,27 @@
   </url>
   
   <url>
-    <loc>/tags/brian-m.-bendis/</loc>
+    <loc>/tags/indonesia/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/valentino/</loc>
+    <loc>/tags/marapu/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pasola/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sumba/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/anne-fausto-sterling/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -4937,6 +4982,26 @@
   </url>
   
   <url>
+    <loc>/tags/primo-levi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/trump/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/emiliano-sbaraglia/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scuola/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/alejandro-inarritu/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -4952,47 +5017,77 @@
   </url>
   
   <url>
-    <loc>/tags/anne-fausto-sterling/</loc>
+    <loc>/tags/costituzione/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/primo-levi/</loc>
+    <loc>/tags/luigi-ferrajoli/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/trump/</loc>
+    <loc>/tags/renzi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/angelo-favaro/</loc>
+    <loc>/tags/riforme/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/faraon-meteors/</loc>
+    <loc>/tags/m5s/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/stefano-amorese/</loc>
+    <loc>/tags/pd/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tony-harrison/</loc>
+    <loc>/tags/torino/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/emiliano-sbaraglia/</loc>
+    <loc>/tags/virginia-raggi/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/scuola/</loc>
+    <loc>/tags/benedetto-vecchi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bentham/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/philip-dick/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/william-davies/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/antonio-caronia/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/davide-miccione/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/raffaele-coniglione/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5027,82 +5122,7 @@
   </url>
   
   <url>
-    <loc>/tags/m5s/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/pd/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/renzi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/riforme/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/torino/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/virginia-raggi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/angela-merkel/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/angelo-bolaffi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/matteo-cavallino/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sebastian-haffner/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/volker-lauder/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/costituzione/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/luigi-ferrajoli/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/brexit/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/godel/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/philip-dick/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5117,6 +5137,16 @@
   </url>
   
   <url>
+    <loc>/tags/godel/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nizza/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/giorno-della-memoria/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -5127,7 +5157,7 @@
   </url>
   
   <url>
-    <loc>/tags/nizza/</loc>
+    <loc>/tags/psichedelia/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5137,22 +5167,27 @@
   </url>
   
   <url>
-    <loc>/tags/psichedelia/</loc>
+    <loc>/tags/burkini/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lino-ricchiuti/</loc>
+    <loc>/tags/rossana-miranda/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/politica/</loc>
+    <loc>/tags/badoglio/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/terremoto/</loc>
+    <loc>/tags/benedetto-ix/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/raimondo-del-nero/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5182,17 +5217,17 @@
   </url>
   
   <url>
-    <loc>/tags/burkini/</loc>
+    <loc>/tags/lino-ricchiuti/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rossana-miranda/</loc>
+    <loc>/tags/politica/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/brian-eno/</loc>
+    <loc>/tags/terremoto/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5202,17 +5237,7 @@
   </url>
   
   <url>
-    <loc>/tags/badoglio/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/benedetto-ix/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/raimondo-del-nero/</loc>
+    <loc>/tags/brian-eno/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5248,6 +5273,16 @@
   
   <url>
     <loc>/tags/lidia-riviello/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alfonso-liguori/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/democrazia/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5302,16 +5337,6 @@
   </url>
   
   <url>
-    <loc>/tags/alfonso-liguori/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/democrazia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/barbara-carnevali/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -5337,22 +5362,22 @@
   </url>
   
   <url>
-    <loc>/tags/animali/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/roberto-vannucci/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/giornalismo/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
     <loc>/tags/katharine-viner/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/animali/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/roberto-vannucci/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5492,6 +5517,11 @@
   </url>
   
   <url>
+    <loc>/tags/nino-spirli/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/massimiliano-tonelli/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -5502,72 +5532,7 @@
   </url>
   
   <url>
-    <loc>/tags/nino-spirli/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/matteo-cavallitto/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ferruccio-busoni/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/miles-davis/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/musica/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/andrei-rossius/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/filippo-tarantino/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/florinda-vigni/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gerardo-bianco/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gerardo-marotta/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/istituto-italiano-per-gli-studi-filosofici/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/luigi-miraglia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/maurizio-torrini/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vivarium-novum/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5602,122 +5567,17 @@
   </url>
   
   <url>
-    <loc>/tags/ali-ahmad-sa&amp;amp;#39;id/</loc>
+    <loc>/tags/ferruccio-busoni/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/astronomia/</loc>
+    <loc>/tags/miles-davis/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bosone/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/enriques/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fisica/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gadda/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/geymonat/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/giulio-giorello/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/kuhn/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/pino-donghi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/popper/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/alessandro-maini/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/taoismo/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/giacobiti/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/stuart/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/emerson/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fritz-lang/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fumetti/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/george-grosz/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/marlen-dietrich/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/metropolis/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/roosevelt/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/superman/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/wolfgang-schivelbusch/</loc>
+    <loc>/tags/musica/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5777,7 +5637,187 @@
   </url>
   
   <url>
+    <loc>/tags/andrei-rossius/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/filippo-tarantino/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/florinda-vigni/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gerardo-bianco/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gerardo-marotta/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/istituto-italiano-per-gli-studi-filosofici/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/luigi-miraglia/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/maurizio-torrini/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vivarium-novum/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ali-ahmad-sa&amp;amp;#39;id/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/astronomia/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bosone/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/enriques/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fisica/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gadda/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/geymonat/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/giulio-giorello/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kuhn/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pino-donghi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/popper/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/giacobiti/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stuart/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alessandro-maini/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/taoismo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/emerson/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fritz-lang/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fumetti/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/george-grosz/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/marlen-dietrich/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metropolis/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/roosevelt/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/superman/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/wolfgang-schivelbusch/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/mark-hay/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/migranti/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/paolo-martino/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stefano-pasta/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5802,72 +5842,12 @@
   </url>
   
   <url>
-    <loc>/tags/migranti/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/paolo-martino/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/stefano-pasta/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/michele-iacono/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
     <loc>/tags/siria/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/john-a.-garraty/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ruth-ben-ghiat/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/enogastronomia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/leonardo-da-vinci/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/luca-maroni/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vino/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/curzio-malaparte/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fascismo/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mauro-canali/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5903,6 +5883,86 @@
   
   <url>
     <loc>/tags/vaccini/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/giorgio-grossi/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/giovanna-procacci/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hans-dieter-bahr/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lello-voce/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lotta-armata/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/processo-7-aprile/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/toni-negri/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/enogastronomia/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/leonardo-da-vinci/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/luca-maroni/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vino/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/john-a.-garraty/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ruth-ben-ghiat/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/curzio-malaparte/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fascismo/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mauro-canali/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -5947,11 +6007,6 @@
   </url>
   
   <url>
-    <loc>/tags/trotzki/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/florenskj/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -5972,22 +6027,7 @@
   </url>
   
   <url>
-    <loc>/tags/davide-rondoni/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/enrico-fraccacreta/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/andrea-appetito/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/narrativa/</loc>
+    <loc>/tags/trotzki/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -6007,7 +6047,12 @@
   </url>
   
   <url>
-    <loc>/tags/lotta-armata/</loc>
+    <loc>/tags/davide-rondoni/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/enrico-fraccacreta/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -6027,62 +6072,27 @@
   </url>
   
   <url>
-    <loc>/tags/giorgio-grossi/</loc>
+    <loc>/tags/andrea-appetito/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/giovanna-procacci/</loc>
+    <loc>/tags/narrativa/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hans-dieter-bahr/</loc>
+    <loc>/tags/libreria/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lello-voce/</loc>
+    <loc>/tags/libro/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
   <url>
-    <loc>/tags/processo-7-aprile/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/toni-negri/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/antonio-caronia/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/davide-miccione/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/raffaele-coniglione/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/benedetto-vecchi/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bentham/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/william-davies/</loc>
-    <lastmod>2022-04-29</lastmod>
+    <loc>/shop/</loc>
+    <lastmod>2022-05-08</lastmod>
   </url>
 </urlset>

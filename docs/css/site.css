@@ -18,3 +18,12 @@ a:hover {
 	padding: 0px !important;
 }
 
+
+@import "https://cdn.skypack.dev/@frsource/tiny-carousel-core/dist/index.css";
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+

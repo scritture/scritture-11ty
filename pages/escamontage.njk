@@ -1,20 +1,23 @@
 ---
-layout: layouts/home.njk
+layout: layouts/shop.njk
 permalink: /escamontage/
 eleventyNavigation:
   key: escamontage editoria
-  order: 10 
+  order: 12
 ---
-<hr style="height:50px;border-width:0;color:gray;background-color:#97da82"> 
+<iframe 
+src="https://escamontage.wordpress.com/category/narrativa/" 
+width="100%" 
+height="10000" 
+style="border:none;">
+</iframe>
+{# <hr style="height:50px;border-width:0;color:gray;background-color:#97da82"> 
   <header class="py-3 mb-4 border-bottom">
     <div class="container d-flex flex-wrap justify-content-center">
-
-
       <a href="/escamontage/" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
         <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
         <span class="fs-4">escamontage</span>
       </a>
-
     </div>
   </header>
 
@@ -24,7 +27,8 @@ eleventyNavigation:
 
 {% set postslist = collections.escamontage | head(-3) %}
 {% set postslistCounter = collections.escamontage | length %}
-{% include "postslist.njk" %}
+{% include "carusel.njk" %}
 
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
 
+ #}

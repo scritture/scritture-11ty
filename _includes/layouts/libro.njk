@@ -1,0 +1,96 @@
+---
+layout: layouts/shop.njk
+--- 
+<br>
+    <!-- Start Item Details -->
+    <section class="item-details section">
+        <div class="container">
+            <div class="top-area">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-12">
+                        <div class="product-images">
+                            <main id="gallery">
+                                 <a class="btn" data-bs-toggle="modal" data-bs-target="#copertina">
+                                <div class="main-img">
+                                    <img class=" rounded float-start w-50 p-3"  src="{{immagine.copertina}}" id="current" alt="{{immagine.copertina}}">
+                                </div>
+                                <div class="images">
+                               
+                                    <img class=" rounded float-start w-25 p-3" src="{{immagine.due}}"  alt="{{immagine.due}}">
+                                    <img class=" rounded w-25 p-3" src="{{immagine.tre}}"  alt="{{immagine.tre}}">
+                                </div>
+                                   </a>
+                            </main>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-12">
+                        <div class="product-info">
+                            <h2 class="title">{{ title }}</h2> <img class=" rounded float-end w-25 p-3"  src="{{autore.foto}}" id="current" alt="{{autore.nome}}">
+                            <p >
+                                <i class="lni lni-tag"></i> di <a href="{{autore.url}}">{{autore.nome}}</a></p>
+                            <h3 class="price">{{prezzo}} &euro;</h3>
+                            <p class="info-text">{{editore}} - {{luogo}} - {{ date | justYear }} </p>
+                            <div class="row">
+                            <p>
+                            {{descrizione}} 
+                            </p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <br>
+            <div class="product-details-info">
+                <div class="single-block">
+                    <div class="row">
+                        <div class="col-lg-6 col-12">
+                            <div class="info-body custom-responsive-margin">
+                                <h4>{{subtitle}}</h4>
+                                <p>{{ content | safe }}</p>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-12">
+                            <div class="info-body">
+                                <h4>spedizione</h4>
+                                <ul class="normal-list">
+                                    <li><span>{{spedizione.luogo01}}</span>   {{spedizione.prezzo01}} &euro;</li>
+                                    <li><span>{{spedizione.luogo02}}</span>   {{spedizione.prezzo02}} &euro;</li>
+                                    <li><span>{{spedizione.luogo03}}</span>   {{spedizione.prezzo03}} &euro;</li>
+
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br>
+    <!-- End Item Details -->
+
+
+<!-- Modal -->
+<div class="modal fade" id="copertina" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen">
+    <div class="modal-content ">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">{{ title }}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+                                    <img class=" rounded float-start w-50 p-3"  src="{{immagine.copertina}}" id="current" alt="{{immagine.copertina}}">
+                                    <img class=" rounded float-start w-50 p-3" src="{{immagine.due}}"  alt="{{immagine.due}}">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">chiudi</button>
+
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -3,12 +3,14 @@
   "url": "/",
   "language": "it",
   "description": "I am writing about my experiences as a naval navel-gazer.",
-  "email": "info@envy.roma.it",
-  "tel": "069412345678",
-  "twitter": "https://fb.com/templatemo",
-  "facebook": "https://www.facebook.com/search/top?q=envy%20camicie",
-  "instagram": "https://www.instagram.com/matteo.pedani/",
-  "linkedin": "https://www.linkedin.com/in/matteopedani/",
+  "email": "grandtour.frascati@gmail.com",
+  "phone": "+39 3467284282",
+  "iva": "00000000000000",
+  "codice_fiscale": "abcdef000000f0",
+  "twitter": "https://twitter.com/tweet_scritture",
+  "facebook": "https://www.facebook.com/search/scritturemagazine",
+  "instagram": "",
+  "linkedin": "https://www.linkedin.com/groups/4880518",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
@@ -21,7 +23,9 @@
   },
   "author": {
     "name": "Claudio Comandini",
-    "email": "youremailaddress@example.com",
+    "email": "grandtour.frascati@gmail.com",
+    "phone": "+39 3467284282",
+    "image": "",
     "url": "/about-me/"
   }
 }
