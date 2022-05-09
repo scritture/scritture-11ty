@@ -1,18 +1,61 @@
 ---
 layout: layouts/home.njk
 permalink: /
+eleventyNavigation:
 ---
-
-
-
-
-{# 
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
-
-{% set postslist = collections.posts | head(3) %}
-{% set postslistCounter = collections.posts | length %}
+<hr style="height:50px;border-width:0;color:gray;background-color:#d91111"> 
+<div class="jumbotron">
+  <div class="container text-center">
+    <a href="/">
+      <img src="/images/cropped-scritture_logo-1.jpg" class="img-fluid" alt="" class="d-inline-block align-text-top"> 
+    </a>
+  </div>
+</div>
+<hr>
+<h3>diario</h3>
+{% set postslist = collections['Claudio Comandini'] %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
-#}
+{% set arr = [1,2,3,4,5,6,7,8,9] %}
+
+<div class="columwrapper">
+  {%- for items in arr | slice(3) %}
+    <ul class="column-{{ loop.index }}">
+    {%- for item in items %}
+      <li>{{ item }}</li>
+    {%- endfor %}
+    </ul>
+  {%- endfor %}
+</div>
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    <li class="page-item">
+      <a class="page-link" href="#" aria-label="Previous">
+        <span aria-hidden="true">&laquo;</span>
+      </a>
+    </li>
+    <li class="page-item"><a class="page-link" href="#">1</a></li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item">
+      <a class="page-link" href="#" aria-label="Next">
+        <span aria-hidden="true">&raquo;</span>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+
+<nav aria-labelledby="my-pagination">
+  <h2 id="my-pagination">This is my Pagination</h2>
+  <ol>
+    <li>{% if page.url != pagination.href.first %}<a href="{{ pagination.href.first }}">First</a>{% else %}First{% endif %}</li>
+    <li>{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Previous</a>{% else %}Previous{% endif %}</li>
+{%- for pageEntry in pagination.pages %}
+    <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>Page {{ loop.index }}</a></li>
+{%- endfor %}
+    <li>{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Next</a>{% else %}Next{% endif %}</li>
+    <li>{% if page.url != pagination.href.last %}<a href="{{ pagination.href.last }}">Last</a>{% else %}Last{% endif %}</li>
+  </ol>
+</nav>
