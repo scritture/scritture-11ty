@@ -4,10 +4,10 @@
   "language": "it",
   "home_page_url": "/",
   "feed_url": "/feed/feed.json",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Testi e tessiture: la scrittura e le sue declinazioni",
   "author": {
     "name": "Claudio Comandini",
-    "url": "/about-me/"
+    "url": "/about/"
   },
   "items": [{
       "id": "/posts/fourthpost/",

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Scritture</title>
-	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<subtitle>La trama degli eventi</subtitle>
 	
 	<link href="/feed/feed.xml" rel="self"/>
 	<link href="/"/>

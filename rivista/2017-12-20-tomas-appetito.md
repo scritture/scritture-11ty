@@ -17,7 +17,7 @@ tags:
 - Scritture
 ---
  
-«Speravo che si aprisse sotto di me un baratro, un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.»
+«Speravo che si aprisse sotto di me un baratro, un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.» 
 
 In una città sul mare il sogno di un autocrate ambizioso e senza scrupoli sta per realizzarsi. L’apparizione di una nave misteriosa segna l’inizio di un’ondata di violenza che scuote la città fino alla sua distruzione. Sette personaggi ne raccontano gli ultimi eventi con punti di vista diversi. Ciò che li accomuna è il loro rapporto con Tomàs, un ragazzo scomparso all’improvviso proprio dopo l’apparizione della nave. Tomàs è il tassello mancante di una trama che vede coinvolti il passato dell’autocrate e l’organizzazione dei suoi oppositori. Sullo sfondo, una storia d’amore perduto dai risvolti inquietanti.
 
@@ -74,7 +74,10 @@ Dopo la chiusura del porto mi riavvicinai ad Anita. Quell’idiota di mio fratel
 
 Tomàs era geloso di me. Se ne stava sempre appiccicato alla madre. E ringhiava quando mi avvicinavo. Nikolas aveva una specie di venerazione per Tomàs. Lo imitava in tutto e male. Non era mai alla sua altezza. Nikolas era senza palle. Apatico. Fania lo aveva allattato al seno. Che cosa potevo aspettarmi da una donna drogata di clozapina? Solo un figlio che sarebbe diventato un’ameba. Nikolas non aveva volontà, né ambizione. Si vedeva subito che era destinato a una vita banale. Non aveva qualità. Era contro di me e al tempo stesso mendicava in continuazione il mio affetto. Non era neppure capace di odiarmi davvero.
 
+
+
 Karina invece era tenace e ambiziosa. Almeno da bambina. E mi adorava. Cercavo di tenerla il più possibile lontana dalla madre. Per questo gliel’avevo tolta appena nata e l’avevo fatta allattare artificialmente. Non volevo che anche il sangue di mia figlia si riempisse di clozapina. Cercavo di tenerla lontano anche da Anita e da Tomàs. Karina era la mia bambina. L’unica che mi amasse davvero. Tutte le sere prima di addormentarsi mi aspettava nel suo lettino. Era la mia fatina. Io mi sdraiavo accanto a lei. L’accarezzavo. E lei mi accarezzava. Le piaceva coccolarmi. Un giorno avremmo guidato insieme una Città nuova. Io sarei stato il re e lei la mia regina.
+
 
 ![Tomas](/images/2017/12/Tomas.jpg)
 

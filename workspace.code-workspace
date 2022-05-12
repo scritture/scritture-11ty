@@ -4,16 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../envy"
-		},
-		{
 			"path": "../iris"
 		},
 		{
-			"path": "../handmade"
-		},
-		{
-			"path": "../ShoppingCartWithVanillaJavascript"
+			"path": "../stackbit"
 		}
 	]
 }

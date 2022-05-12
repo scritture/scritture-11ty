@@ -3,7 +3,12 @@ layout: layouts/home.njk
 permalink: /
 eleventyNavigation:
 ---
-<hr style="height:50px;border-width:0;color:gray;background-color:#d91111"> 
+<hr style="height:50px;
+border-width:0;
+color:gray;
+background-color:#bb0f0f;
+opacity: 1;"> 
+
 <div class="jumbotron">
   <div class="container text-center">
     <a href="/">
@@ -11,8 +16,56 @@ eleventyNavigation:
     </a>
   </div>
 </div>
+
+<hr> 
+
+<div class="row mb-2">
+    <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-primary">Frascati a Largo Duca di York 8</strong>
+          <h3 class="mb-0">Grand Tour</h3>
+          <div class="mb-1 text-muted"></div>
+          <p class="card-text mb-auto">
+            Ci introduce allo spazio e alle sue suggestioni il murales realizzato all’ingresso dallo street artist Stefano Salvi, che tra le diverse soluzioni presenta una decostruzione delle colonne d’Ercole del teatro delle fontane di Villa Aldobrandini.  
+            </p>
+          <a href="/libreria/" class="stretched-link">approfondisci</a>
+        </div>
+        
+        <div class="col-auto d-none d-lg-block">
+        <img src="/images/shop/outside.jpg" class="bd-placeholder-img" width="200" height="250"  aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" >
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <p class="mb-auto">è una libreria, un bar, un circolo: un piccolo spazio che si propone quale tappa di qualsiasi viaggio possibile. Pubblicazioni, oggetti e vestiti usati, prodotti tipici e pregiati, laboratorio di produzioni culturali. È gestito dallo scrittore Claudio Comandini presso il centro storico.</p>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+                  <img src="/images/shop/inside.jpg" class="bd-placeholder-img" width="200" height="250"  aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" >
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
+    <div class="col-md-6 px-0">
+      <h1 class="display-4 fst-italic">Festa di apertura</h1>
+      <p class="lead my-3">Dalle ore 17:30 in Largo Duca di York 8 a Frascati .</p>
+      <p class="lead mb-0"><a href="https://goo.gl/maps/st391mvJQyXCc1EE6" class="text-white fw-bold">Mappa -- come arrivare</a></p>
+      <p class="lead mb-0"><a href="https://www.facebook.com/349087052116029/posts/pfbid02ePoFiicYJqDbn94vhBVQSQXgbrQzRSxR1MwzkWoXU6Lm61bQLK77ThLQAYvXHADl/?d=n" class="text-white fw-bold">L'articolo del Tuscolo che parla di noi</a></p>
+    </div>
+  </div>
+
+
 <hr>
-<h3>diario</h3>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2973.889494591771!2d12.677793317443847!3d41.80914089999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1325871d3881c2af%3A0xdea00a4e355457f!2sVia%20Duca%20di%20York%2C%208%2C%2000044%20Frascati%20RM!5e0!3m2!1sit!2sit!4v1652353890337!5m2!1sit!2sit" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<hr>
+
+
 {% set postslist = collections['Claudio Comandini'] %}
 {% include "postslist.njk" %}
 
@@ -28,34 +81,5 @@ eleventyNavigation:
   {%- endfor %}
 </div>
 
-<nav aria-label="Page navigation example">
-  <ul class="pagination">
-    <li class="page-item">
-      <a class="page-link" href="#" aria-label="Previous">
-        <span aria-hidden="true">&laquo;</span>
-      </a>
-    </li>
-    <li class="page-item"><a class="page-link" href="#">1</a></li>
-    <li class="page-item"><a class="page-link" href="#">2</a></li>
-    <li class="page-item"><a class="page-link" href="#">3</a></li>
-    <li class="page-item">
-      <a class="page-link" href="#" aria-label="Next">
-        <span aria-hidden="true">&raquo;</span>
-      </a>
-    </li>
-  </ul>
-</nav>
 
 
-<nav aria-labelledby="my-pagination">
-  <h2 id="my-pagination">This is my Pagination</h2>
-  <ol>
-    <li>{% if page.url != pagination.href.first %}<a href="{{ pagination.href.first }}">First</a>{% else %}First{% endif %}</li>
-    <li>{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Previous</a>{% else %}Previous{% endif %}</li>
-{%- for pageEntry in pagination.pages %}
-    <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>Page {{ loop.index }}</a></li>
-{%- endfor %}
-    <li>{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Next</a>{% else %}Next{% endif %}</li>
-    <li>{% if page.url != pagination.href.last %}<a href="{{ pagination.href.last }}">Last</a>{% else %}Last{% endif %}</li>
-  </ol>
-</nav>
