@@ -8,23 +8,16 @@ image: "/images/shop/caludio_libreria.jpg"
 title: "Autoagiografia"
 author: "Claudio Comandini"
 ---
-<div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
-    <div class="col-md-6 px-0">
-      <h1 class="display-4 fst-italic">Grand Tour </h1>
-      <p class="lead my-3">
-E' una libreria, un bar, un circolo: un piccolo spazio che si propone quale tappa di qualsiasi viaggio possibile. Pubblicazioni, oggetti e vestiti usati, prodotti tipici e pregiati, laboratorio di produzioni culturali. È gestito dallo scrittore Claudio Comandini presso il centro storico di Frascati a Largo Duca di York 8.
-</p>
-<p class="lead mb-0">  
-Telefono: +39 06442448940
-</p>
-<p class="lead mb-0">  
-Cellulare: +39 3467284282
-</p>
-<p class="lead mb-0"><a href="https://goo.gl/maps/st391mvJQyXCc1EE6" class="text-white fw-bold">Mappa -- come arrivare</a></p>
-<p class="lead mb-0"><a href="mailto:grandtour.frascati@gmail.com">grandtour.frascati@gmail.com</a></p>
-    </div>
-  </div>
 
+## Grand Tour
+### book wine bar
+
+* Largo Duca di York 8, 
+* Frascati
+
+* Telefono: +39 06442448940
+* Cellulare: +39 3467284282
+* [grandtour.frascati@gmail.com](mailto:grandtour.frascati@gmail.com)
 
 ##### orari
 
@@ -33,11 +26,8 @@ Cellulare: +39 3467284282
 * venerdì - sabato: 12.00 - 02.00
 * domenica: 12.00 - 22.30
   
----
 
-###### Claudio Comandini
-
-### Autoagiografia non breve ma spiritosa 
+## Autoagiografia non breve ma spiritosa 
 
 “Claudio Comandini sfiora la realtà con la lama di un coltello, fino a reciderne il superfluo […], sorprendendoci, straniandoci”. (Massimo Pamio, Premio di Poesia D’Annunzio e Michetti 2000)
 «Ho visto il mondo ad occhi chiusi/ Ho sentito il gallo bestemmiare/ Nel gelido rasoio di un mattino» (Claudio Comandini, Zona limite, Amsterdam 1988)
