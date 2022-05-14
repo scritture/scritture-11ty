@@ -787,11 +787,6 @@
   </url>
   
   <url>
-    <loc>/grandtour/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/page-list/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -6069,5 +6064,10 @@
   <url>
     <loc>/rivista/2022-05-12-apre-grandtour/</loc>
     <lastmod>2022-05-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>/grandtour/</loc>
+    <lastmod>2022-05-14</lastmod>
   </url>
 </urlset>
