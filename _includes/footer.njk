@@ -9,20 +9,15 @@
                         <div class="col-lg-3 col-md-6 col-12">
                             <!-- Single Widget -->
                             <div class="single-footer f-contact">
-                                <h3>orari</h3>
-                                <ul>
-                                    <li><span>lunedì: </span> chiuso </li>
-                                    <li><span>martedi - giovedì: </span> 17:00 - 22:30 </li>
-                                    <li><span>venerdì - sabato: </span> 12:00 - 02:00 </li>
-                                    <li><span>domenica: </span> 12.00  - 22.30 </li>
-                                </ul>
+                                {% include 'orario.njk' %}
                                 <p class="mail">
                                     <a href="mailto:{{metadata.email}}">{{metadata.email}}</a>
                                 </p>
                                 <p class="phone">telefono: {{metadata.phone}}</p>
+                                <p class="phone">telefono: {{metadata.mobile}}</p>
                                 <p class="phone">iva: {{metadata.iva}}</p>
                                 <p class="phone">codice fiscale: {{metadata.codice_fiscale}}</p>
-                                 <h5>ISSN 2499-6610</h5>
+                                 <h6>{{metadata.ISSN}}</h6>
                             </div>
                             <!-- End Single Widget -->
                         </div>

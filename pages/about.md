@@ -9,23 +9,15 @@ title: "Autoagiografia"
 author: "Claudio Comandini"
 ---
 
-## Grand Tour
-### book wine bar
+# Grand Tour
+### bookwinebar
 
-* Largo Duca di York 8, 
-* Frascati
+* {{metadata.address}}
+* Telefono:  {{metadata.phone}}
+* Cellulare: {{metadata.mobile}}
+* [{{metadata.email}}](mailto:{{metadata.email}})
 
-* Telefono: +39 06442448940
-* Cellulare: +39 3467284282
-* [grandtour.frascati@gmail.com](mailto:grandtour.frascati@gmail.com)
-
-##### orari
-
-* lunedì: chiuso
-* martedì - giovedì: 17.00 - 22.30
-* venerdì - sabato: 12.00 - 02.00
-* domenica: 12.00 - 22.30
-  
+{% include 'orario.njk' %}
 
 ## Autoagiografia non breve ma spiritosa 
 
