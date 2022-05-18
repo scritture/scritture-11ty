@@ -1,14 +1,13 @@
 ---
-title: Apre Grand Tour
-subtitle: A FRASCATI APRE IL "GRAND TOUR BOOK WINE BAR" DI CLAUDIO COMANDINI, GIOVEDì 12 MAGGIO SI FA FESTA DALLE ORE 17,30 IN LARGO DUCA DI YORK
-headline: Per iniziativa dello scrittore Claudio Comandini, a Frascati sta finalmente per aprire i battenti un nuovo spazio multiculturale, il “Grand Tour Book-Wine-Bar”, dove attraverso l’offerta enogastronomica che creerà la convivialità e lo scambio di idee e informazioni, si punterà a fare aggregazione filosofica e culturale provando a dimensionare, senza perdersi, il senso della vita.  
+title: "Apre Grand Tour"
+subtitle: "A FRASCATI APRE IL GRAND TOUR BOOK WINE BAR DI CLAUDIO COMANDINI, GIOVEDì 12 MAGGIO SI FA FESTA DALLE ORE 17,30 IN LARGO DUCA DI YORK"
+headline: "Per iniziativa dello scrittore Claudio Comandini, a Frascati sta finalmente per aprire i battenti un nuovo spazio multiculturale, il Grand Tour Book-Wine-Bar, dove attraverso l’offerta enogastronomica che creerà la convivialità e lo scambio di idee e informazioni, si punterà a fare aggregazione filosofica e culturale provando a dimensionare, senza perdersi, il senso della vita."
 author: Fabio Polli
 author_photo: 
 date: 2022-05-12
 image: /images/shop/libreria01.jpg
 tags:
 - Fabio Polli
-- Scritture
 ---
 
 Per iniziativa dello scrittore Claudio Comandini, a Frascati sta finalmente per aprire i battenti un nuovo spazio multiculturale, il “Grand Tour Book-Wine-Bar”, dove attraverso l’offerta enogastronomica che creerà la convivialità e lo scambio di idee e informazioni, si punterà a fare aggregazione filosofica e culturale provando a dimensionare, senza perdersi, il senso della vita. 

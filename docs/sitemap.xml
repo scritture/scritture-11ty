@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/libreria/basso_impero/</loc>
+    <loc>/drafs/basso_impero/</loc>
     <lastmod>2007-01-01</lastmod>
   </url>
   
@@ -793,6 +793,21 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/libreria/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fabio-polli/</loc>
+    <lastmod>2022-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/grandtour/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
   
@@ -6022,16 +6037,6 @@
   </url>
   
   <url>
-    <loc>/tags/fabio-polli/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/libreria/</loc>
-    <lastmod>2022-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/libro/</loc>
     <lastmod>2022-04-29</lastmod>
   </url>
@@ -6047,8 +6052,18 @@
   </url>
   
   <url>
-    <loc>/rivista/2022-05-12-apre-grandtour/</loc>
+    <loc>/libreria/2022-05-12-apre-grandtour/</loc>
     <lastmod>2022-05-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libreria/2022-05-15-grandtour/</loc>
+    <lastmod>2022-05-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libreria/2022-05-18-grandtour_apertura/</loc>
+    <lastmod>2022-05-13</lastmod>
   </url>
   
   <url>

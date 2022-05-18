@@ -1,5 +1,6 @@
 {
   "tags": [
     "libreria"
-  ]
+  ],
+  "layout": "layouts/post.njk"
 }
