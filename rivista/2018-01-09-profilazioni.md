@@ -1,6 +1,6 @@
 ---
 title: Profilazioni predittive e comportamenti elettorali 
-subtitle: Speravo che si aprisse sotto di me un baratro, un inferno in cui nascondermi e da cui rinascere dopo molte generazioni. 
+subtitle: Denunciare una realtà e svelarne il nome, piuttosto che assecondare luoghi comuni, significa iniziare a trasformarla. Svelare l’ideologia implicita della digitalizzazione, e demistificare le illusioni di progresso sociale e di smisurata libertà di Internet, può contribuire a tutelare e proteggere le nostre autentiche libertà, e anche a fare buon uso della Rete.
 headline: 
 author: Renato Curcio
 author_photo: 
