@@ -27,7 +27,7 @@ Numerose le riprese video di questa prima festa di inaugurazione, tra cui quelli
 
 <div class="fb-video" 
   data-href="https://www.facebook.com/EditorArteCinema/videos/328279532751874/" 
-  data-width="300" data-height="600"
+  data-width="400" 
   data-show-text="false">
 <blockquote cite="https://www.facebook.com/EditorArteCinema/videos/328279532751874/" 
   class="fb-xfbml-parse-ignore">
